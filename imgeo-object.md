@@ -1,5 +1,5 @@
 ---
-permalink: /imgeo-object
+permalink: /richtlijn 1
 sort: 1
 ---
 
