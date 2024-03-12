@@ -3,7 +3,7 @@ permalink: /richtlijn 1
 sort: 1
 ---
 
-# IMGeo-object
+# richtlijn-1
 
 **Definitie**
 
