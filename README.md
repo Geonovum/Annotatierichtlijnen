@@ -3,9 +3,9 @@ Annotatierichtlijnen - in bewerking! -
 
 ![](media/225fb3ba09d381b3650114de9da62e9c.png)
 
--   [Over het objectenhandboek](#over-het-objectenhandboek)
+-   [Over het XXX](#over-het-objectenhandboek)
 
--   [Gebruik objectenhandboek](#gebruik-objectenhandboek)
+-   [Gebruik XXX](#gebruik-objectenhandboek)
 
 -   [Toelichting bij de voorbeelden](#toelichting-bij-de-voorbeelden)
 
@@ -13,10 +13,10 @@ Annotatierichtlijnen - in bewerking! -
 
 -   [Deze versie](#deze-versie)
 
-Over het objectenhandboek
+Over het XXX
 -------------------------
 
-Het objectenhandboek omvat
+Het XXX omvat
 
 -   de inwinregels en praktijkvoorbeelden van de verplichte inhoud van de
     Basisregistratie Grootschalige Topografie (BGT),
@@ -31,24 +31,20 @@ De drie delen staan niet op zichzelf, maar zijn opgesteld ter ondersteuning van
 de gegevenscatalogi van de
 [BGT](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/) en van het
 [IMGeo](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/). De
-gegevenscatalogi beschrijven informatiekundig de objecttypen, attributen en
-domeinwaarden die behoren tot de gegevensverzamelingen van respectievelijk de
-BGT en het IMGeo. Aangezien een plaatje meer zegt dan 1000 woorden, is ervoor
-gekozen een objectenhandboek op te stellen dat aan de hand van een aantal
-praktijkvoorbeelden de gegevenscatalogi toelicht.
+gegevenscatalogi beschrijven informatiekundig de objecttypen, attributen en.
 
-Het objectenhandboek is een dynamisch document is. In het werkveld zal
+Het XXX is een dynamisch document is. In het werkveld zal
 ongetwijfeld behoefte ontstaan aan meer voorbeelden om de gegevenscatalogi te
 ondersteunen. Ook deze versie is daarom geen eindstation maar een volgende stap
 in een traject.
 
-Het objectenhandboek biedt ondersteuning op welke wijze topografische objecten
+Het XXX biedt ondersteuning op welke wijze topografische objecten
 zijn gemodelleerd in de BGT en het IMGeo. Dit gebeurt in eerste instantie aan de
 hand van fotovoorbeelden waarop de begrenzing van objecten en zoveel mogelijk 
 de objecten zelf zijn weergegeven. Dit is zowel van belang bij de inwinning als
 bij het gebruik van de datasets.
 
-Gebruik objectenhandboek
+Gebruik XXX
 ------------------------
 
 Onder objecten staan voorbeelden van de verplichte BGT-objecten én de
@@ -59,25 +55,6 @@ attributen, met name die specifiek voor het afgebeelde object zijn. Daaronder
 vallen niet de attributen voor identificatie, objecttijden, registratietijden,
 bronhouder en -in onderzoek-. Deze laatste geeft overigens aan of er een
 geaccepteerde mutatiemelding voor het object is geregistreerd.
-
-Het onderscheid binnen IMGeo tussen verplichte BGT- en vrijwillige plusinhoud is
-in het informatiemodel duidelijker aangebracht. Er is een attribuut
-'BGT-classificatie' en een attribuut 'plus-classificatie'. Er is voor gekozen om
-expliciet -geen BGT- ook in de benaming op te nemen wanneer het een uitbreiding
-van de objectklasse betreft. Wanneer deze vermelding niet voorkomt, is het een
-specialisatie van het betreffende BGT-type.
-
-Ook wordt aandacht besteedt aan de afstemming tussen de BGT en de BAG. Beide
-onderdelen van het stelsels registreren weliswaar verschillende geometrieën van
-panden, maar ten behoeve van de efficiency moeten beide tegelijkertijd worden
-ingewonnen. Dit onderdeel biedt handvatten voor de afstemming van geometrie ten
-behoeve van panden. Bij panden geldt dat, gebaseerd op de eisen van veel
-gebruikers, de BGT de geometrie van het maaiveld oftewel de voetafdruk
-registreert, terwijl de BAG datzelfde doet met de buitenomtrek van panden,
-waarbij het niet uitmaakt of deze boven- of ondergronds is gelegen. Om het
-inwinningsproces ten behoeve van BGT en BAG niet nodeloos complex en vooral
-efficiënt te laten verlopen, is het van belang deze inwinning zoveel mogelijk te
-combineren.
 
 Toelichting bij de voorbeelden
 ------------------------------
@@ -163,7 +140,7 @@ F.  Dit onbegroeide **terreindeel** is een erf dat grenst aan de boerderij.
 
 Deze versie
 -----------
-Het IMGeo objectenhandboek is een dynamisch document en wordt continue aangevuld met voorbeelden. Voor een overzicht van de wijzigingen zie de [release notes](https://github.com/Geonovum/IMGeo-objectenhandboek/blob/master/RELEASENOTES).
+Het XXX is een dynamisch document en wordt continue aangevuld met voorbeelden. Voor een overzicht van de wijzigingen zie de [release notes](https://github.com/Geonovum/IMGeo-objectenhandboek/blob/master/RELEASENOTES).
 
 
 
