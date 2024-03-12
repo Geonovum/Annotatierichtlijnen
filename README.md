@@ -1,4 +1,4 @@
-IMGeo objectenhandboek
+Annotatierichtlijnen - in bewerking! -
 ======================
 
 ![](media/225fb3ba09d381b3650114de9da62e9c.png)
