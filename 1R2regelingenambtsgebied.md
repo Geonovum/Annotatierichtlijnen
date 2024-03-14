@@ -3,7 +3,7 @@ permalink: /richtlijn2
 sort: 1
 ---
 
-# richtlijn 2
+# richtlijn 1.2: Regeling en ambtsgebied
 
 **Definitie**
 
