@@ -1,5 +1,5 @@
 ---
-permalink: /Richtlijn1.1_regelingenambtsgebied
+permalink: /Richtlijn1_1_regelingenambtsgebied
 sort: 1
 ---
 
