@@ -3,7 +3,7 @@ permalink: /richtlijn1
 sort: 1
 ---
 
-# richtlijn 1: Regeling en ambtsgebied
+# richtlijn 1.1: Regeling en ambtsgebied
 
 **Definitie**
 
