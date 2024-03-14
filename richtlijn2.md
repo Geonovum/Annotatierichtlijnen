@@ -1,9 +1,9 @@
 ---
-permalink: /richtlijn 1
+permalink: /richtlijn 2
 sort: 1
 ---
 
-# richtlijn-1
+# richtlijn-2
 
 **Definitie**
 
