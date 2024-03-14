@@ -18,15 +18,15 @@ readme_index:
   with_frontmatter: true
   
 script: | 
-  console.log("Hallo IMGeo objectenhandboek!");
-  var url_prefix = "https://geonovum.github.io/IMGeo-objectenhandboek/";
+  console.log("Hallo Annotatierichtlijnen!");
+  var url_prefix = "https://geonovum.github.io/Annotatierichtlijnen/";
   var breadcrumbs = window.location.href.replace(url_prefix, '').split('/');
   breadcrumbs.forEach(addLink);
   function addLink(value, index, array) { array[index] = '<a href="/' + value + '">' + value + '</a>'; };
   document.getElementsByClassName("breadcrumb-item")[1].innerHTML = breadcrumbs.join(' / ').replace(/.html|.md|#/g, '');
   var toclevel1 = document.getElementsByClassName('level-1');
   for (let tocitem of toclevel1) { tocitem.getElementsByTagName('a')[0].innerHTML = tocitem.getElementsByTagName('a')[0].innerHTML.split('. ')[1];}
-  document.getElementsByClassName('input-sm')[0].placeholder = "Zoeken in het objectenhandboek...";  
+  document.getElementsByClassName('input-sm')[0].placeholder = "Zoeken in de Annotatierichtlijnen...";  
   if (document.getElementsByClassName('search-results').length > 0 ) { document.getElementsByClassName('search-results')[0].getElementsByTagName('h2')[0].innerHTML = 'Zoekresultaten';};
   if (document.getElementsByClassName('search-results').length > 0) {document.getElementsByClassName('search-results')[0].getElementsByClassName('summary')[0].innerHTML = document.getElementsByClassName('search-results')[0].getElementsByClassName('summary')[0].innerHTML.replace('Search finished, found', 'Zoekopdracht voltooid,').replace('page(s) matching the search query', 'pagina (\'s) gevonden die overeenkomen met de zoekopdracht');};
   var logo = document.createElement("div"); 
@@ -38,7 +38,7 @@ script: |
   var lgimg = 'https://docs.geostandaarden.nl/bro/gen/logo_minbzk.png';
   document.getElementById("logo").innerHTML = '<img src="'+lgimg+'" title="Ministerie van BZK" />';
   document.getElementsByClassName('status')[0].getElementsByClassName('title')[0].innerHTML = '<i class="fa fa-book"></i> Beheer en licentie';
-  document.getElementsByClassName('addons')[0].innerHTML = '<dl><dt><small>Geonovum ontwikkelt en beheert het digitale objectenhandboek BGT | IMGeo in opdracht van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.<br /><br />Suggesties en (betere) foto\'s zijn van harte welkom op <a href="mailto:imgeo@geonovum.nl"> imgeo@geonovum.nl </a></small>.</dt></dl><hr />' + document.getElementsByClassName('addons')[0].innerHTML;   
+  document.getElementsByClassName('addons')[0].innerHTML = '<dl><dt><small>Geonovum ontwikkelt en beheert de Annotatierichtlijnen.<br /><br />Suggesties en (betere) foto\'s zijn van harte welkom op <a href="mailto:imgeo@geonovum.nl"> imgeo@geonovum.nl </a></small>.</dt></dl><hr />' + document.getElementsByClassName('addons')[0].innerHTML;   
   
   function jiraHelpdesk(callback) {var jhdScript = document.createElement('script');jhdScript.type = 'text/javascript';  jhdScript.setAttribute('data-jsd-embedded', null);jhdScript.setAttribute('data-key', 'a1b2eab7-f8ab-4bf1-a347-5dc2aab179eb');  jhdScript.setAttribute('data-base-url', 'https://jsd-widget.atlassian.com');  jhdScript.src='https://jsd-widget.atlassian.com/assets/embed.js';if(jhdScript.readyState){jhdScript.onreadystatechange = function() {if ( jhdScript.readyState === 'loaded' || jhdScript.readyState === 'complete' ) {jhdScript.onreadystatechange = null;callback();}};} else {jhdScript.onload = function() {callback();};} document.getElementsByTagName('head')[0].appendChild(jhdScript);}
   jiraHelpdesk(function() {var DOMContentLoaded_event = document.createEvent('Event');  DOMContentLoaded_event.initEvent('DOMContentLoaded', true, true);window.document.dispatchEvent(DOMContentLoaded_event);});
