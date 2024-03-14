@@ -1,5 +1,5 @@
 ---
-permalink: /richtlijn2
+permalink: /1R2regelingenambtsgebied
 sort: 1
 ---
 
