@@ -1,10 +1,9 @@
-
 ---
-permalink: /richtlijn2_1_regelsopstellen
+permalink: /Richtlijn2_1_regelsopstellen
 sort: 1
 ---
 
-# richtlijn 2.1: Regels opstellen
+# Richtlijn 2.1: Regels opstellen
 
 **Definitie**
 
