@@ -1,6 +1,6 @@
 
 ---
-permalink: /richtlijn2_1_regelsopstellen.md
+permalink: /richtlijn2_1_regelsopstellen
 sort: 1
 ---
 
@@ -10,3 +10,5 @@ sort: 1
 
 De gemeenschappelijke eigenschappen van een grootschalig topografisch object, al
 dan niet uit de basisregistratie.
+
+
