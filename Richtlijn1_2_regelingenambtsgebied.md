@@ -1,9 +1,9 @@
 ---
-permalink: /richtlijn1_2_regelingenambtsgebied
+permalink: /Richtlijn1_2_regelingenambtsgebied
 sort: 1
 ---
 
-# richtlijn 1.2: Regeling en ambtsgebied
+# Richtlijn 1.2: Regeling en ambtsgebied
 
 **Richtlijn**
 
