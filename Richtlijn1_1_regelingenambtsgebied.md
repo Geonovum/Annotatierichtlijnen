@@ -1,4 +1,5 @@
 ---
+title: Richtlijn 1.1: Regeling en ambtsgebied 
 permalink: /Richtlijn1_1_regelingenambtsgebied
 sort: 1
 ---
