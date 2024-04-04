@@ -1,6 +1,6 @@
 ---
 permalink: /Richtlijn2_1_regelsopstellen
-sort: 1
+sort: 3
 ---
 
 # Richtlijn 2.1: Regels opstellen
