@@ -1,6 +1,6 @@
 ---
 permalink: /Richtlijn1_2_regelingenambtsgebied
-sort: 1
+sort: 2
 ---
 
 # Richtlijn 1.2: Regeling en ambtsgebied
