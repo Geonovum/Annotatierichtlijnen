@@ -1,4 +1,5 @@
 ---
+title: XXX
 permalink: /Richtlijn1_1_regelingenambtsgebied
 sort: 1
 ---
