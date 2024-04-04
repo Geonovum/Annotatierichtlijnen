@@ -5,7 +5,7 @@ sort: 1
 ---
 
 # Richtlijn 1: Regeling en ambtsgebied
-===================
+
 
 **Richtlijn 1.1: Elk OW-object hoort bij één regeling**
 ----------------
