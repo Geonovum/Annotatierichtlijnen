@@ -5,6 +5,7 @@ sort: 1
 ---
 
 # Richtlijn 1.1: Regeling en ambtsgebied
+===================
 
 **Richtlijn**
 
@@ -13,7 +14,7 @@ regeling. We adviseren om iedere regeling eigen OW-objecten te geven en niet te 
 naar OW-objecten in een andere regeling kan en mag alleen bij hetzelfde bevoegd gezag.
 
 **Zo pas je de richtlijn toe**
-
+----------------
 Locaties neem je altijd op als informatieobject in de bijlage van de regels binnen een omgevingsdocument. Je verwijst er dus niet naar vanuit andere omgevingsdocumenten. Dit geldt in principe ook voor andere zaken, zoals activiteiten, maar het is vooral relevant voor locaties.
 
 Bijvoorbeeld:
@@ -23,7 +24,7 @@ Bijvoorbeeld:
 Bij uitzondering kun je locaties hergebruiken uit andere omgevingsdocumenten van je eigen organisatie. Verwijs dan van zachte naar harde regels. Dit betekent dat je verwijst van een document met een minder bindend karakter (bijvoorbeeld een omgevingsvisie) naar een document met een bindend karakter (bijvoorbeeld een omgevingsplan).
 
 **Achtergrond van de richtlijn**
-
+----------------
 Deze regel is om juridische en technische redenen ingevoerd:
 
 Stel dat een omgevingsplan verwijst naar een locatie in de omgevingsverordening van de provincie. Als de provincie die locatie wijzigt, verandert de locatie in het omgevingsplan automatisch mee. Dit gebeurt zonder een besluit door de gemeenteraad of het college van burgemeester en wethouders (B&W) en zonder het volgen van de normale procedure met inspraak- en beroepsmogelijkheden. Het kan zelfs gebeuren dat de locatie na wijziging deels buiten het grondgebied van de gemeente valt. De gemeente stelt dan regels over een deel van de buurgemeente, zonder dat dit de bedoeling is.
