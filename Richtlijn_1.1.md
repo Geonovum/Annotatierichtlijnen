@@ -1,6 +1,6 @@
 ---
 title: Richtlijn 1.1 - Elk OW-object hoort bij één regeling 
-permalink: /regelingenambtsgebied_1.1
+permalink: /regelingenambtsgebied1
 sort: 1
 ---
 
