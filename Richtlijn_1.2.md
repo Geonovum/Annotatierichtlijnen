@@ -31,3 +31,8 @@ voor een snellere werking van de kaart.
 
 _NB: Wanneer je verwijst naar een ander ambtsgebied, verwijs je naar de versie die op dat moment geldig is. Bij een eventuele bestuurlijke
 herindeling, maak je geleidelijk de overstap naar het nieuwe ambtsgebied._
+
+**Voorbeeld**
+----------------
+**Gebruik slechts één soort toestemming per artikel of lid (regeltekst)​**
+![Screenshot Voorbeeld 1: Gebruik slechts één soort toestemming per artikel of lid (regeltekst)](Media/Voorbeeld bij 1.1 .png)
