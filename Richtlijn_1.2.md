@@ -1,10 +1,7 @@
 ---
-title: Richtlijn 1.2 - Gebruik voor het ambtsgebied de geometrie van de ambtsgebiedenservice 
+title: Richtlijn 1.2 - Gebruik geometrie van de ambtsgebiedenservice 
 permalink: /regelingenambtsgebied
 sort: 1
----
-permalink: /Richtlijn_1.2
-sort: 2
 ---
 
 # Richtlijn 1.2 - Gebruik voor het ambtsgebied de geometrie van de ambtsgebiedenservice
