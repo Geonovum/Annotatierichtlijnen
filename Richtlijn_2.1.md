@@ -1,5 +1,5 @@
 ---
-title: Richtlijn 2.1: Regels opstellen
+title: Richtlijn 2.1 - Regels opstellen
 permalink: /regelsopstellen
 sort: 3
 ---
