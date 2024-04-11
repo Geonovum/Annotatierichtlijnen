@@ -29,10 +29,11 @@ Deze regel is om juridische en technische redenen ingevoerd​. Een paar voorbee
 
 3. Door niet te verwijzen naar objecten in andere regelingen, of alleen te verwijzen naar objecten in regelingen van hetzelfde bevoegd gezag, is het mogelijk om regelingen afzonderlijk te migreren naar een volgende versie van de standaard. Dit kan ook in kleine reeksen. 
 
-4. De downloadservice van het stelsel valideert of de regeling verwijst naar objecten in een andere regeling. ​     ​Dit betekent dat het aanleveren van (een wijziging van) een regeling met een verwijzing naar een object in een regeling van een ander bevoegd gezag, wordt afgekeurd. 
+4. De downloadservice van het stelsel valideert of de regeling verwijst naar objecten in een andere regeling. ​     ​
+   Dit betekent dat het aanleveren van (een wijziging van) een regeling met een verwijzing naar een object in een regeling van een ander bevoegd gezag, wordt afgekeurd. 
 
 ​​​Deze richtlijn geldt ook voor de ​​instructieregels van de provincie. Hier worden gebieden geduid die de gemeente ook in het omgevingsplan moet opnemen. Daar mag je niet naar verwijzen. Zodra de provincie deze wijzigt, moet de gemeente ook het omgevingsplan wijzigen.​​ 
 
 **Voorbeeld 1: Gebruik slechts één soort toestemming per artikel of lid (regeltekst)​**
 ----------------
-![Screenshot Voorbeeld 1: Gebruik slechts één soort toestemming per artikel of lid (regeltekst)](Media/Geonovum_logo.svg)
+![Screenshot Voorbeeld 1: Gebruik slechts één soort toestemming per artikel of lid (regeltekst)](Media/Voorbeeld bij 1.1 .png)
