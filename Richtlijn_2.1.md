@@ -1,6 +1,6 @@
 ---
 title: Richtlijn 2.1 - Regels opstellen
-permalink: /regelsopstellen
+permalink: /regelsopstellen1
 sort: 3
 ---
 
