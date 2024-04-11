@@ -4,10 +4,7 @@ permalink: /regelingenambtsgebied1
 sort: 2
 ---
 
-# Richtlijn 1.1: Regeling en ambtsgebied
-
-
-**Richtlijn 1.1: Elk OW-object hoort bij één regeling**
+**Richtlijn 1.1 - Elk OW-object hoort bij één regeling**
 ----------------
 Ieder OW-object (Regeltekst, Juridische regel, Locatie, Gebiedsaanwijzing, Activiteit, Omgevingsnorm of Omgevingswaarde) hoort bij één regeling. We adviseren om iedere regeling eigen OW-objecten te geven en niet te verwijzen naar OW-objecten in een andere regeling. Verwijzen naar OW-objecten in een andere regeling kan en mag alleen bij hetzelfde bevoegd gezag. 
 
