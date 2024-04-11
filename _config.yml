@@ -35,8 +35,8 @@ script: |
   logo.setAttributeNode(lgclass); 
   var content = document.getElementsByClassName("content")[0]; 
   content.insertBefore(logo, content.firstChild);   
-  var lgimg = (https://github.com/Geonovum/Annotatierichtlijnen/blob/532fd65239092d40126b1d9c7339aa84f0e71543/Media/Geonovum_logo.svg);
-  document.getElementById("logo").innerHTML = '<img src="'+lgimg+'" title="Geonovum" />';
+  var lgimg = 'https://docs.geostandaarden.nl/bro/gen/logo_minbzk.png';
+  document.getElementById("logo").innerHTML = '<img src="'+lgimg+'" title="Ministerie van BZK" />';
   document.getElementsByClassName('status')[0].getElementsByClassName('title')[0].innerHTML = '<i class="fa fa-book"></i> Beheer en licentie';
   document.getElementsByClassName('addons')[0].innerHTML = '<dl><dt><small>Geonovum ontwikkelt en beheert de Annotatierichtlijnen.<br /><br />Suggesties en (betere) foto\'s zijn van harte welkom op <a href="mailto:imgeo@geonovum.nl"> imgeo@geonovum.nl </a></small>.</dt></dl><hr />' + document.getElementsByClassName('addons')[0].innerHTML;   
   
