@@ -1,5 +1,6 @@
 ---
-permalink: /Richtlijn2_1_regelsopstellen
+title: Richtlijn 2.1: Regels opstellen
+permalink: /regelsopstellen
 sort: 3
 ---
 
