@@ -1,6 +1,6 @@
 ---
 title: Regeling en ambtsgebied 
-permalink: /1regelingenambtsgebied
+permalink: /regelingenambtsgebied
 sort: 1
 ---
 
