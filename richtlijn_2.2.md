@@ -1,10 +1,10 @@
 ---
 title: Richtlijn 2.2 - Regels opstellen 
 permalink: /regelsopstellen2
-sort: 4
+sort: 5
 ---
 
-# Richtlijn 2.2: Regeling en ambtsgebied
+# Richtlijn 2.2 - Regeling en ambtsgebied
 
 **Richtlijn**
 
