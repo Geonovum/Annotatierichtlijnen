@@ -1,10 +1,10 @@
 ---
-title: 2-Regels opstellen
+title: 2 Regels opstellen
 permalink: /Regelsopstellen
 sort: 4
 ---
 
-# Regels opstellen
+# 2. Regels opstellen
 
 inleidende tekst over Regeling en ambtsgebied:
 
