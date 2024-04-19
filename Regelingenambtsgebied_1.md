@@ -1,5 +1,5 @@
 ---
-title: Regeling en ambtsgebied
+title: 1. Regeling en ambtsgebied
 permalink: /regelingenambtsgebied
 sort: 1
 ---
