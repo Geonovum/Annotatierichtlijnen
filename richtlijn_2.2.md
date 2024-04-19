@@ -1,29 +1,27 @@
 ---
-title: Richtlijn 2.2 - Regels opstellen 
+title: Richtlijn 2.2 - ‘Regel voor iedereen’ 
 permalink: /regelsopstellen2
 sort: 5
 ---
 
-# Richtlijn 2.2 - Regeling en ambtsgebied
+# Richtlijn 2.2 - ‘Regel voor iedereen’
 
-**Richtlijn**
+Een juridische regel is een ‘Regel voor iedereen’ in onderstaande gevallen:
+- In een AMvB, ministeriële regeling of omgevingsverordening: als het geen omgevingswaarderegel of instructieregel is;
+- In een omgevingsplan: als het geen omgevingswaarderegel is;
+- In een waterschapsverordening, voorbeschermingsregels omgevingsplan, voorbeschermingsregels omgevingsverordening, omgevingsplanregels uit een projectbesluit, Natura 2000-besluit (aanwijzingsbesluit en toegangsbeperkingsbesluit) en reactieve interventie.
 
-IXXXxxxxxnkdjngko;ajeogrje
+**Waarom doen we dit?**
 
-**Zo pas je de richtlijn toe**
+Het omgevingsplan bevat twee soorten regels:
+- Omgevingswaarderegels voor het vaststellen van een omgevingswaarde
+- Regels voor iedereen voor alle overige regels
 
-BHAHGIAHEIGHJOE;JO;
+Je geeft altijd het type van een juridische regel aan. Dit maakt duidelijk voor welke doelgroep de regel is.
 
-Bij uitzondering kun je locaties hergebruiken uit andere omgevingsdocumenten van je eigen organisatie. Verwijs dan van zachte naar harde regels. Dit betekent dat je verwijst van een document met een minder bindend karakter (bijvoorbeeld een omgevingsvisie) naar een document met een bindend karakter (bijvoorbeeld een omgevingsplan).
+Er zijn drie typen regels:
+- Regel voor iedereen: deze regels kunnen voor iedereen relevant zijn.
+- Instructieregel: dit zijn regels voor bevoegde gezagen.
+- Omgevingswaarderegel: dit zijn regels voor bevoegde gezagen.
 
-**Achtergrond van de richtlijn**
-
-Deze regel is om juridische en technische redenen ingevoerd:
-
-Stel dat een omgevingsplan verwijst naar een locatie in de omgevingsverordening van de provincie. Als de provincie die locatie wijzigt, verandert de locatie in het omgevingsplan automatisch mee. Dit gebeurt zonder een besluit door de gemeenteraad of het college van burgemeester en wethouders (B&W) en zonder het volgen van de normale procedure met inspraak- en beroepsmogelijkheden. Het kan zelfs gebeuren dat de locatie na wijziging deels buiten het grondgebied van de gemeente valt. De gemeente stelt dan regels over een deel van de buurgemeente, zonder dat dit de bedoeling is.
-
-1. De provincie kan een locatie waarnaar in het omgevingsplan wordt verwezen niet beëindigen. Dit komt doordat de locatie in het omgevingsplan nog steeds in gebruik is. De provincie kan de locatie wel uit de omgevingsverordening verwijderen. Alleen, zolang de gemeente in het omgevingsplan naar de locatie verwijst, blijft de locatie in het DSO achter. De juridische grondslag voor de locatie is verdwenen, terwijl de gemeente er nog steeds naar verwijst. De gemeente krijgt hier geen melding van, waardoor het risico bestaat dat er regels worden gehandhaafd die geen grondslag meer hebben. 
-
-2. Door niet te verwijzen naar objecten in andere regelingen, of alleen te verwijzen naar objecten in regelingen van hetzelfde bevoegd gezag, wordt het mogelijk om regelingen afzonderlijk te migreren naar een volgende versie van de standaard. Dit kan ook in kleine reeksen.
-
-3. De downloadservice van het stelsel werkt niet goed wanneer er in een regeling wordt verwezen naar objecten in een andere regeling. Dit probleem is opgelost in de 3.0-versie van de TPOD-standaard. Deze versie valideert hierop. Dit betekent dat het aanleveren van (een wijziging van) een regeling met een verwijzing naar een object in een regeling van een ander bevoegd gezag, wordt afgekeurd.
+Als een regel geen omgevingswaarde- of instructieregel is, is het altijd een regel voor iedereen. Dit geldt ook voor regels die een vergunningplicht instellen, beoordelingsregels, begripsbepalingen en meet- en rekenbepalingen.
