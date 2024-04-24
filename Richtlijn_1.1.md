@@ -1,7 +1,7 @@
 ---
 title: Richtlijn 1.1 - Elk OW-object hoort bij één regeling 
 permalink: /regelingenambtsgebied1
-sort: 2
+sort: 1
 ---
 # Richtlijn 1.1 - Elk OW-object hoort bij één regeling
 ----------------
