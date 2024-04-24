@@ -1,7 +1,7 @@
 ---
 title: Richtlijn 2.2 - ‘Regel voor iedereen’ 
 permalink: /regelsopstellen2
-sort: 1
+sort: 2
 ---
 
 # Richtlijn 2.2 - ‘Regel voor iedereen’
