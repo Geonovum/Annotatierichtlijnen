@@ -1,7 +1,7 @@
 ---
 title: Richtlijn 2.1 - Specifiek annoteren één juridische regel
 permalink: /regelsopstellen1
-sort: 5
+sort: 1
 ---
 
 # Richtlijn 2.1: Specifiek annoteren van één juridische regel
