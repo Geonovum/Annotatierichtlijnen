@@ -51,7 +51,7 @@ script: |
   
 scss: |
   @import url('https://tools.geostandaarden.nl/respec/style/fonts/ro-fonts.css');   
-  .sidebar{background: #000;}
+  .sidebar{background: #fff;}
   a {color:#0085c6;}
   .toctree a{color:#000; padding-left: 8}
   .toctree a:active {background: #fff;}
@@ -64,7 +64,7 @@ scss: |
   .addons-wrap .status, addons {background:#007ea9;color:#000}
   .input-sm:before{content: " " }
   .header { display:none; }
-  #logo img { width: 15%; margin-left: auto; margin-right: 0; display: block }
+  #logo img { width: 20%; margin-left: auto; margin-right: 0; display: block }
   @media all and (max-width: 1300px) {
         iframe#jsd-widget {        
         right:40px !important;     
