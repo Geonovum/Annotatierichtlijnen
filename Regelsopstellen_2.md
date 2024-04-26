@@ -1,16 +1,15 @@
 ---
-title: 2. Regels opstellen
+title: 2 Regels opstellen
 permalink: /Regelsopstellen
 sort: 2
 ---
 
-# 2 Regels opstellen
-
-De richtlijnen voor Regels opstellen zijn:
+# 2. Richtlijnen Regels opstellen
 
 **Richtlijn 2.1 Specifiek annoteren van één juridische regel**
 
 Om het annoteren zo specifiek mogelijk te maken, helpt het als elk artikel of lid van het omgevingsdocument maar één juridische regel heeft. [Lees verder](Richtlijn_2.1.md)
+
 
 **Richtlijn 2.2 ‘Regel voor iedereen'**
 
