@@ -4,12 +4,10 @@ permalink: /regelingenambtsgebied
 sort: 1
 ---
 
-# Regeling en ambtsgebied
+# Richtlijnen Regeling en ambtsgebied
 
-inleidende tekst over Regeling en ambtsgebied:
-- wat is dit
-- hoe doe je dit
-- welke richtlijnen zijn er
-- welke voorbeelden zijn er
+De richtlijnen voor Regeling en ambtsgebied zijn:
 
-Toevoegen: relevante linkjes naar andere bronnen 
+**Richtlijn 1.1 - Elk OW-object hoort bij één regeling**
+Ieder OW-object (regeltekst, juridische regel, locatie, gebiedsaanwijzing, activiteit, omgevingsnorm of omgevingswaarde) hoort bij één regeling. We adviseren om iedere regeling eigen OW-objecten te geven en niet te verwijzen naar OW-objecten in een andere regeling. Verwijzen naar OW-objecten in een andere regeling kan en mag alleen bij hetzelfde bevoegd gezag. [Lees verder](Richtlijn_1.1.md)
+
