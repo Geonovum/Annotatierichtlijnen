@@ -1,10 +1,10 @@
 ---
-title: Richtlijn 2.1 - Specifiek annoteren één juridische regel
+title: Richtlijn 2.1 Specifiek annoteren één juridische regel
 permalink: /regelsopstellen1
 sort: 2
 ---
 
-# Richtlijn 2.1: Specifiek annoteren van één juridische regel
+# Richtlijn 2.1 Specifiek annoteren van één juridische regel
 
 Om het annoteren zo specifiek mogelijk te maken, helpt het als elk artikel of lid van het omgevingsdocument maar één juridische regel heeft.
 
