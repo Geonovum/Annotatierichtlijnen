@@ -1,10 +1,10 @@
 ---
-title: Richtlijn 1.2 - Gebruik geometrie van de ambtsgebiedenservice 
+title: Richtlijn 1.2 Gebruik geometrie van de ambtsgebiedenservice 
 permalink: /regelingenambtsgebied2
 sort: 1
 ---
 
-# Richtlijn 1.2 - Gebruik voor het ambtsgebied de geometrie van de ambtsgebiedenservice
+# Richtlijn 1.2 Gebruik voor het ambtsgebied de geometrie van de ambtsgebiedenservice
 
 Als de locatie van het werkingsgebied hetzelfde is als het ambtsgebied van de bestuurlijke grenzen voorziening, hoeft het bevoegd gezag geen geometrie voor het ambtsgebied te maken.
 
