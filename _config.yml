@@ -51,7 +51,7 @@ script: |
   
 scss: |
   @import url('https://tools.geostandaarden.nl/respec/style/fonts/ro-fonts.css');   
-  .sidebar{background: #fff;}
+  .sidebar{background: #000;}
   a {color:#0085c6;}
   .toctree a{color:#000; padding-left: 8}
   .toctree a:active {background: #fff;}
