@@ -4,8 +4,6 @@ permalink: /regelingenambtsgebied
 sort: 1
 ---
 
-# Richtlijnen Regeling en ambtsgebied
-
 De richtlijnen voor Regeling en ambtsgebied zijn:
 
 **Richtlijn 1.1 - Elk OW-object hoort bij één regeling**
