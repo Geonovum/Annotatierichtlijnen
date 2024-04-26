@@ -1,15 +1,21 @@
 ---
-title: 2 Regels opstellen
+title: 2. Regels opstellen
 permalink: /Regelsopstellen
 sort: 2
 ---
 
-# 2. Regels opstellen
+# 2 Regels opstellen
 
-inleidende tekst over Regeling en ambtsgebied:
+De richtlijnen voor Regels opstellen zijn:
 
-- wat is dit
-- hoe doe je dit
-- welke richtlijnen zijn er
-- welke voorbeelden zijn er
-Toevoegen: relevante linkjes naar andere bronnen
+**Richtlijn 2.1 Specifiek annoteren van één juridische regel**
+
+Om het annoteren zo specifiek mogelijk te maken, helpt het als elk artikel of lid van het omgevingsdocument maar één juridische regel heeft. [Lees verder](Richtlijn_2.1.md)
+
+**Richtlijn 2.2 ‘Regel voor iedereen'**
+
+Een juridische regel is een ‘Regel voor iedereen' in onderstaande gevallen:
+- In een AMvB, ministeriële regeling of omgevingsverordening: als het geen omgevingswaarderegel of instructieregel is;
+- In een omgevingsplan: als het geen omgevingswaarderegel is;
+- In een waterschapsverordening, voorbeschermingsregels omgevingsplan, voorbeschermingsregels omgevingsverordening, omgevingsplanregels uit een projectbesluit, Natura 2000-besluit (aanwijzingsbesluit en toegangsbeperkingsbesluit) en reactieve interventie. 
+[Lees verder](Richtlijn_2.2.md)
