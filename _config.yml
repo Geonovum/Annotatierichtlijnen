@@ -53,7 +53,7 @@ scss: |
   @import url('https://tools.geostandaarden.nl/respec/style/fonts/ro-fonts.css');   
   .sidebar{background: #fff;}
   a {color:#0085c6;}
-  .toctree a{color:#000; padding-left: 8}
+  .toctree a{color:#0085c6; padding-left: 8}
   .toctree a:active {background: #fff;}
   .level-1, .level-2, .level-3, .level-4, .level-5 {background:#fff};
   body, .markdown-body {font-family: 'Verdana', sans-serif;}  
@@ -61,7 +61,7 @@ scss: |
   .markdown-body blockquote {font-family: 'Verdana', serif}
   .container{background: #fff;}
   .header{background: #0085c6;}
-  .addons-wrap .status, addons {background:#007ea9;color:#000}
+  .addons-wrap .status, addons {background:#007ea9;color:#0085c6}
   .input-sm:before{content: " " }
   .header { display:none; }
   #logo img { width: 20%; margin-left: auto; margin-right: 0; display: block }
