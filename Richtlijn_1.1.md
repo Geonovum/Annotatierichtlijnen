@@ -28,9 +28,3 @@ Deze regel is om juridische en technische redenen ingevoerd. Een paar voorbeelde
 4. De downloadservice van het stelsel valideert of de regeling verwijst naar objecten in een andere regeling. Dit betekent dat het aanleveren van (een wijziging van) een regeling met een verwijzing naar een object in een regeling van een ander bevoegd gezag, wordt afgekeurd.
 
 Deze richtlijn geldt ook voor de instructieregels van de provincie. Hier worden gebieden geduid die de gemeente ook in het omgevingsplan moet opnemen. Daar mag je niet naar verwijzen. Zodra de provincie deze wijzigt, moet de gemeente ook het omgevingsplan wijzigen.
- 
-
-**Voorbeeld**
-----------------
-**dit even om de code te onthouden maar als er geen plaatje komt dan verwijderen**
-![Screenshot Voorbeeld 1: Gebruik slechts één soort toestemming per artikel of lid (regeltekst)](Media/Voorbeeld bij 1.1 .png)
