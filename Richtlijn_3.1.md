@@ -7,7 +7,7 @@ sort: 31
 ----------------
 Bevat een regel in een omgevingsdocument een vergunning-, meldings- of informatieplicht <sup>1</sup>? Dan is het noodzakelijk minimaal één juridische regel met een activiteit te annoteren, zodat het mogelijk is het benodigde formulier in het Omgevingsloket te zetten. 
 
-##Waarom doen we dit?##
+**Waarom doen we dit?**
 Gemeenten, provincies, waterschappen en het Rijk moeten op grond van artikel 14.2 leden 1 en 3 Omgevingsbesluit de informatie beschikbaar stellen die nodig is om in de landelijke voorziening een formulier, inclusief indieningsvereisten, te maken voor:  
 
 - Het aanvragen van een omgevingsvergunning;  
