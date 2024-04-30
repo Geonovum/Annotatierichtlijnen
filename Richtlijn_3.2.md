@@ -25,6 +25,7 @@ Als je algemene regels stelt die gelden voor een specifieke activiteit, kun je d
 In het geval van een vrijstelling op een verbod of vergunning/meldingsplicht adviseren wij deze te annoteren met de activiteitregelkwalificatie ‘toestemmingsvrij’. 
 
 **Waarom doen we dit?**
+
 Over het algemeen is het voor een lezer duidelijker als een artikel of lid over één ‘plichtkwalificatie’ gaat. Ook voor het beheer van toepasbare regels in relatie tot de juridische regels is dat wenselijk, omdat het bij het wijzigen van één activiteitregelkwalificatie eenvoudiger beheerd kan worden in de keten. Voor het raadplegen van een omgevingsdocument in een viewer geldt dat ook; het vereenvoudigt wat er gelezen moet worden. 
 
 ‘Anders geduid’ wordt niet getoond in de viewer; beperk daarom waar mogelijk het gebruik hiervan. Bij regels met een voorwaarde kan worden gekozen voor anders geduid (immers, bij de regel is een andere regelkwalificatie niet meteen van toepassing); ofwel kun je kiezen voor bv meldingsplicht, waarbij het dus gaat over een meldingsplicht onder voorwaarden.  
