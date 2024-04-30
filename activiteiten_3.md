@@ -1,4 +1,3 @@
-
 ---
 title: 3 Activiteiten inzichtelijk en toepasbaar maken
 permalink: /activiteiten
