@@ -17,4 +17,4 @@ Een juridische regel is een ‘Regel voor iedereen' in onderstaande gevallen:
 - In een AMvB, ministeriële regeling of omgevingsverordening: als het geen omgevingswaarderegel of instructieregel is;
 - In een omgevingsplan: als het geen omgevingswaarderegel is;
 - In een waterschapsverordening, voorbeschermingsregels omgevingsplan, voorbeschermingsregels omgevingsverordening, omgevingsplanregels uit een projectbesluit, Natura 2000-besluit (aanwijzingsbesluit en toegangsbeperkingsbesluit) en reactieve interventie. 
-[Lees verder](richtlijn_2.2.md) 
+[Lees verder](richtlijn_2.2.md)
