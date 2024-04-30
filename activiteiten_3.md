@@ -6,11 +6,8 @@ sort: 30
 
 # 3. Richtlijnen Activiteiten inzichtelijk en toepasbaar maken
 
-**Richtlijn 3.1 Elk OW-object hoort bij één regeling**
+- **Richtlijn 3.1 Activiteit annoteren voor aanvragen**
+Bevat een regel in een omgevingsdocument een vergunning-, meldings- of informatieplicht? Dan is het noodzakelijk minimaal één juridische regel met een activiteit te annoteren, zodat het mogelijk is het benodigde formulier in het Omgevingsloket te zetten. [Lees verder](Richtlijn_3.1.md)
 
-Ieder OW-object (regeltekst, juridische regel, locatie, gebiedsaanwijzing, activiteit, omgevingsnorm of omgevingswaarde) hoort bij één regeling. We adviseren om iedere regeling eigen OW-objecten te geven en niet te verwijzen naar OW-objecten in een andere regeling. Verwijzen naar OW-objecten in een andere regeling kan en mag alleen bij hetzelfde bevoegd gezag. [Lees verder](Richtlijn_1.1.md)
-
-
-**Richtlijn 3.2 Gebruik voor het ambtsgebied de geometrie van de ambtsgebiedenservice**
-
-Als de locatie van het werkingsgebied hetzelfde is als het ambtsgebied van de bestuurlijke grenzen voorziening, hoeft het bevoegd gezag geen geometrie voor het ambtsgebied te maken. [Lees verder](Richtlijn_1.2.md)
+- **Richtlijn 3.2 Pas de juiste activiteitregelkwalificatie toe**
+Voor het annoteren met activiteitregelkwalificaties is het prettig als een artikel of lid zo is opgeschreven dat er per artikel (of per lid als het artikel meerdere leden heeft) maar één soort ‘plichtkwalificatie’ voorkomt (vergunningplicht, meldingsplicht etc.). Dan kun je namelijk per artikel/lid één activiteitregelkwalificatie gebruiken. [Lees verder](Richtlijn_3.2.md)
