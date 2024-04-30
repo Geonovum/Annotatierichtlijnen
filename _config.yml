@@ -56,9 +56,9 @@ scss: |
   .toctree a{color:#000; padding-left: 8}
   .toctree a:active {background: #fff;}
   .level-1, .level-2, .level-3, .level-4, .level-5 {background:#fff};
-  body, .markdown-body {font-family: 'Verdana', sans-serif;}  
-  .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4 {color: #64686b; font-family: 'Verdana', sans-serif;}  
-  .markdown-body blockquote {font-family: 'Verdana', serif}
+  body, .markdown-body {font-family: 'Open Sans', sans-serif;}  
+  .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4 {color: #64686b; font-family: 'Open Sans', sans-serif;}  
+  .markdown-body blockquote {font-family: 'Open Sans', serif}
   .container{background: #fff;}
   .header{background: #0085c6;}
   .addons-wrap .status, addons {background:#007ea9;color:#000}
