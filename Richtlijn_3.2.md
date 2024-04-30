@@ -5,7 +5,7 @@ sort: 32
 ---
 # Richtlijn 3.2 Pas de juiste activiteitregelkwalificatie toe
 ----------------
-Voor het annoteren met activiteitregelkwalificaties<sup>1</sup> is het prettig als een artikel of lid zo is opgeschreven dat er per artikel (of per lid als het artikel meerdere leden heeft) maar één soort ‘plichtkwalificatie’ voorkomt (vergunningplicht, meldingsplicht etc.). Dan kun je namelijk per artikel/lid één activiteitregelkwalificatie gebruiken. Zie hiervoor de voorbeelden 1 en 2. 
+Voor het annoteren met activiteitregelkwalificaties<sup>1</sup> is het prettig als een artikel of lid zo is opgeschreven dat er per artikel (of per lid als het artikel meerdere leden heeft) maar één soort ‘plichtkwalificatie’ voorkomt (vergunningplicht, meldingsplicht etc.). Dan kun je namelijk per artikel/lid één activiteitregelkwalificatie gebruiken.  
 
 Je gebruikt de overeenkomende activiteitregelkwalificatie als de regel:  
 - een gebod, informatieplicht, meldingsplicht, verbod, vergunningplicht of zorgplicht instelt, of beoordelingsregels of indieningsvereisten daarvoor bevat,  
