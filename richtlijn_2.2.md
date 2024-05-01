@@ -11,7 +11,7 @@ Een juridische regel is een ‘Regel voor iedereen’ in onderstaande gevallen:
 - In een omgevingsplan: als het geen omgevingswaarderegel is;
 - In een waterschapsverordening, voorbeschermingsregels omgevingsplan, voorbeschermingsregels omgevingsverordening, omgevingsplanregels uit een projectbesluit, Natura 2000-besluit (aanwijzingsbesluit en toegangsbeperkingsbesluit) en reactieve interventie.
 
-**Waarom doen we dit?**
+## Waarom doen we dit?
 
 Het omgevingsplan bevat twee soorten regels:
 - Omgevingswaarderegels voor het vaststellen van een omgevingswaarde
