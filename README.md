@@ -9,10 +9,9 @@ De richtlijnen zijn specifiek gericht op het annoteren van omgevingsdocumenten m
 
 De richtlijnen zijn bedoeld voor medewerkers van bevoegde gezagen en door hen ingeschakelde adviesbureaus die verantwoordelijk zijn voor het annoteren van omgevingsdocumenten. Deze website legt niet uit wat annoteren is, maar richt zich op de juiste manier van annoteren.
 
-
 Deze versie
 -----------
-Deze versie is momenteel nog in bewerking. Teksten zijn nog niet allemaal definitief (aangegeven door 'in concept'). Voor een overzicht van de wijzigingen zie de [release notes](XXXX).
+Deze versie is momenteel nog in bewerking. Teksten zijn nog niet allemaal definitief (aangegeven door 'in bewerking'). Voor een overzicht van de wijzigingen zie de [release notes](releasenotes).
 
 
 
