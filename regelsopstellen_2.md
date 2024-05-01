@@ -4,7 +4,7 @@ permalink: /Regelsopstellen
 sort: 20
 ---
 
-# 2. Richtlijnen Regels opstellen
+# 2. Regels opstellen
 
 **Richtlijn 2.1 Specifiek annoteren van één juridische regel**
 
