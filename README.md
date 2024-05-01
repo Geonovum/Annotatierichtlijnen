@@ -1,4 +1,4 @@
-Annotatierichtlijnen voor omgevingsdocumenten met artikelstructuur 
+Annotatierichtlijnen voor omgevingsdocumenten
 ======================
 
 **- in bewerking! -**
