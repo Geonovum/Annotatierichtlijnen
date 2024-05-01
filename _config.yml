@@ -61,7 +61,7 @@ scss: |
   .markdown-body blockquote {font-family: 'Open Sans', sans-serif;}
   .container{background: #fff;}
   .header{background: #0085c6;}
-  .addons-wrap .status, addons {background:#007ea9;color:#000}
+  .addons-wrap .status, addons {background:#0085c6;color:#000}
   .input-sm:before{content: " " }
   .header { display:none; }
   #logo img { width: 15%; margin-left: auto; margin-right: 0; display: block }
