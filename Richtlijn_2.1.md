@@ -8,7 +8,7 @@ sort: 21
 
 Om het annoteren zo specifiek mogelijk te maken, helpt het als elk artikel of lid van het omgevingsdocument maar één juridische regel heeft.
 
-**Waarom doen we dit?**
+## Waarom doen we dit?
  
 Schrijf per artikel of lid één juridische regel. Vermijd bijvoorbeeld het combineren van de vergunningplicht en de uitzondering in hetzelfde artikel of lid. Dit maakt dat een      artikel of lid in een omgevingsdocument beter te begrijpen is voor de raadpleger. Het bevordert de leesbaarheid en interpretatie van de regels.
 
