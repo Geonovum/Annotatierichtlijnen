@@ -11,7 +11,7 @@ De richtlijnen zijn bedoeld voor medewerkers van bevoegde gezagen en door hen in
 
 Deze versie
 -----------
-Deze versie is momenteel nog in bewerking. Teksten zijn nog niet allemaal definitief (aangegeven door 'in bewerking'). Voor een overzicht van de wijzigingen zie de [release notes](releasenotes).
+Deze versie is momenteel nog in bewerking. Teksten zijn nog niet allemaal definitief (aangegeven door 'in bewerking'). Voor een overzicht van de wijzigingen zie de releasenotes.
 
 
 
