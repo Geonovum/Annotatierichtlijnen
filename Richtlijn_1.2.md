@@ -8,7 +8,7 @@ sort: 12
 
 Als de locatie van het werkingsgebied hetzelfde is als het ambtsgebied van de bestuurlijke grenzen voorziening, hoeft het bevoegd gezag geen geometrie voor het ambtsgebied te maken.
 
-**Waarom doen we dit?**
+## Waarom doen we dit?
 
 Voor werkingsgebieden en locaties die overeenkomen met het ambtsgebied lever je niet zelf de geometrie aan. In plaats daarvan gebruik je het officieel vastgestelde en beschikbaar gestelde ambtsgebied. De ambtsgebieden van alle gemeenten, provincies, waterschappen en het Rijk zijn officieel bepaald. Deze ambtsgebieden zijn in de vorm van coördinaten, vastgelegd in de bestuurlijke grenzen voorziening van het Kadaster<sup>1</sup>. Gebruik altijd het ambtsgebied uit de bestuurlijke grenzen voorziening in regels die voor het hele grondgebied van het bevoegd gezag gelden. Maak dus de geometrie niet zelf, zo voorkom je verschillen in de begrenzing van ambtsgebieden. 
 
