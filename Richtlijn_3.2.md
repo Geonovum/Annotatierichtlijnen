@@ -3,8 +3,10 @@ title: Richtlijn 3.2 Pas de juiste activiteitregelkwalificatie toe
 permalink: /activiteiten2
 sort: 32
 ---
+
 # Richtlijn 3.2 Pas de juiste activiteitregelkwalificatie toe
 ----------------
+
 Voor het annoteren met activiteitregelkwalificaties<sup>1</sup> is het prettig als een artikel of lid zo is opgeschreven dat er per artikel (of per lid als het artikel meerdere leden heeft) maar één soort ‘plichtkwalificatie’ voorkomt (vergunningplicht, meldingsplicht etc.). Dan kun je namelijk per artikel/lid één activiteitregelkwalificatie gebruiken.  
 
 Je gebruikt de overeenkomende activiteitregelkwalificatie als de regel:  
@@ -30,7 +32,6 @@ Over het algemeen is het voor een lezer duidelijker als een artikel of lid over 
 
 ‘Anders geduid’ wordt niet getoond in de viewer; beperk daarom waar mogelijk het gebruik hiervan. Bij regels met een voorwaarde kan worden gekozen voor anders geduid (immers, bij de regel is een andere regelkwalificatie niet meteen van toepassing); ofwel kun je kiezen voor bv meldingsplicht, waarbij het dus gaat over een meldingsplicht onder voorwaarden.  
  
-
 _<sup>1</sup>Activiteitregelkwalificatie is een kenmerk van de combinatie van activiteit, juridische regel en locatie. Dit kenmerk geeft aan wat de strekking van de regel over een activiteit op een bepaalde locatie is. Bijvoorbeeld: op deze plek geldt voor deze activiteit een verbod._
 
 **Voorbeeld**
