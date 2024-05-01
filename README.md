@@ -1,7 +1,7 @@
-Annotatierichtlijnen - in bewerking! -
+Annotatierichtlijnen voor omgevingsdocumenten met artikelstructuur 
 ======================
 
-**Annotatierichtlijnen voor omgevingsdocumenten met artikelstructuur**
+**- in bewerking! -**
 
 Omgevingsdocumenten vormen een belangrijke informatiebron voor burgers, bedrijven en overheden. Door ze te digitaliseren en te annoteren, maken we ze toegankelijker, gebruiksvriendelijker en juridisch verantwoord. De annotatierichtlijnen bieden handvatten voor het correct annoteren van omgevingsdocumenten en ze op een juridisch verantwoorde manier in viewers te tonen. Dit bevordert de toepassing van de regels en maakt het mogelijk om omgevingsdocumenten eenvoudig uit te wisselen tussen bevoegde gezagen en adviesbureaus.
 
