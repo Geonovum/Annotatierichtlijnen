@@ -3,7 +3,14 @@ Annotatierichtlijnen voor omgevingsdocumenten
 
 **- in bewerking! -**
 
-Omgevingsdocumenten vormen een belangrijke informatiebron voor burgers, bedrijven en overheden. Door ze te digitaliseren en te annoteren, maken we ze toegankelijker, gebruiksvriendelijker en juridisch verantwoord. De annotatierichtlijnen bieden handvatten voor het correct annoteren van omgevingsdocumenten en ze op een juridisch verantwoorde manier in viewers te tonen.  
+_Omgevingsdocumenten vormen een belangrijke informatiebron voor burgers, bedrijven en overheden. Door ze te digitaliseren en te annoteren, maken we ze toegankelijker, gebruiksvriendelijker en juridisch verantwoord. De annotatierichtlijnen bieden handvatten voor het correct annoteren van omgevingsdocumenten en ze op een juridisch verantwoorde manier in viewers te tonen._  
+
+-   [Effecten annoteren](#Effecten-annoteren)
+-   [Toevoegen van gegevens](#Toevoegen-van-gegevens)
+-   [Doelen annoteren](#Doelenannoteren)
+-   [Nieuwe versie](#Nieuwe-versie)
+-   [Toelichting op deze website](#Toelichting-op-deze-website)
+-   [In bewerking](#In-bewerking)
 
 Effecten annoteren
 -------------------------
@@ -27,7 +34,7 @@ Geonovum heeft in 2023 een concept Annotatierichtlijnen opgesteld (v0.92) die ov
 
 Deze nieuwe versie komt in een iteratief proces tot stand. Geonovum doet dit samen met mensen van Aan de Slag, Planexperts, Toepasbare Regel-experts en de VNG. Ieder stukje dat klaar is leggen we voor aan een reviewgroep (met vertegenwoordiging van gebruikers van alle koepels) om te toetsen of het recht doet aan de werking van de viewer en de eerder geschreven richtlijn, aan de manier waarop de koepels naar de zaken kijken, en of het leesbaar is voor de praktijk. Als aan deze check is voldaan, worden de richtlijnen op deze website gepubliceerd. De planning is om de nieuwe versie Annotatierichtlijnen voor de zomer van 2024 gereed te hebben. 
 
-Informatie op deze website 
+Toelichting op deze website 
 -------------------------
 
 Deze richtlijnen zijn bedoeld voor medewerkers van bevoegde gezagen en door hen ingeschakelde adviesbureaus die verantwoordelijk zijn voor het annoteren van omgevingsdocumenten. We laten zien hoe je de doelen van annoteren kunt bereiken en waar je daarbij op moet letten.  
