@@ -1,5 +1,5 @@
 ---
-permalink: /RELEASENOTES
+permalink: /releasenotes
 sort: 100
 ---
 
