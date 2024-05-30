@@ -78,7 +78,9 @@ scss: |
         }
   } 
   .faq { background-color: #0085c6; padding: 12px;} 
-  
+
+  .navigation-top {font-size: 2em}
+  .print {font-size: 1.5em}
   .printWindow { visibility: hidden;position:fixed;left:50%;margin-left:-400px;width:800px;top:50%;height:500px;box-shadow: 3px 3px- #eee;margin-top:-250px;
   background:#fff;border: solid 1px grey;text-align:right;z-index:500;border-radius:5px;box-shadow: 0 1px 2px 0;padding: 5px;}
   .printFrame { margin:0;border: none; width:100%;height:100%}
