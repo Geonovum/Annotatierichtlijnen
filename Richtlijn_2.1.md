@@ -6,6 +6,8 @@ sort: 21
 
 # Richtlijn 2.1 Specifiek annoteren van één juridische regel
 
+***- in bewerking -***
+
 Om het annoteren zo specifiek mogelijk te maken, helpt het als elk artikel of lid van het omgevingsdocument maar één juridische regel heeft.
 
 ## Waarom doen we dit?
