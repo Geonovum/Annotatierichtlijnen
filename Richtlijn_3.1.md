@@ -1,7 +1,7 @@
 ---
 title: Richtlijn 3.1 Activiteit annoteren voor aanvragen 
 permalink: /activiteiten1
-sort: 30
+sort: 31
 ---
 
 # Richtlijn 3.1 Activiteit annoteren voor aanvragen
