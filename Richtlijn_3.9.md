@@ -1,7 +1,7 @@
 ---
 title: Richtlijn 3.9 Annotaties moeten niet limitatief lijken als ze dat niet zijn
 permalink: /activiteiten9
-sort: 39
+sort: 38
 ---
 
 # Richtlijn 3.9 Annotaties moeten niet limitatief lijken als ze dat niet zijn
