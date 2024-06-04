@@ -1,7 +1,7 @@
 ---
 title: Richtlijn 3.8 Alleen activiteiten met hun toestemmingen zoals in regel
 permalink: /activiteiten8
-sort: 38
+sort: 37
 ---
 
 # Richtlijn 3.8 Alleen activiteiten met hun toestemmingen zoals in regel
