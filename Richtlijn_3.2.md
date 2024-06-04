@@ -1,7 +1,7 @@
 ---
 title: Richtlijn 3.2 Pas de juiste activiteitregelkwalificatie toe 
 permalink: /activiteiten2
-sort: 302
+sort: 32
 ---
 
 # Richtlijn 3.2 Pas de juiste activiteitregelkwalificatie toe
