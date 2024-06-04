@@ -1,7 +1,7 @@
 ---
 title: Richtlijn 3.7 Activiteiten met concrete inhoudelijke regels
 permalink: /activiteiten7
-sort: 37
+sort: 36
 ---
 
 # Richtlijn 3.7 Activiteiten met concrete inhoudelijke regels
