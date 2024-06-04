@@ -9,7 +9,7 @@ sort: 39
 
 ***- in bewerking -***
 
-In voorbereiding voor review. Publicatie concept volgt 5 juni 2024.
+In voorbereiding voor review. Publicatie concept volgt 5 juni 2024. 
 
 ## Waarom doen we dit?
 
