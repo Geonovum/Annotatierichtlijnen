@@ -1,7 +1,7 @@
 ---
 title: 3 Activiteiten inzichtelijk en toepasbaar maken
 permalink: /activiteiten
-sort: 30
+sort: 29
 ---
 
 # 3. Activiteiten inzichtelijk en toepasbaar maken
