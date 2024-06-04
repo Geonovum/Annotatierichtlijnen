@@ -8,7 +8,7 @@ sort: 40
 
 **Richtlijn 4.1**
 
-XXX
+XXX  
 
 **Richtlijn 4.2**
 
