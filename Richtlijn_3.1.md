@@ -11,7 +11,7 @@ Bevat een regel in een omgevingsdocument een vergunning-, meldings- of informati
 
 ## Waarom doen we dit?
 
-Gemeenten, provincies, waterschappen en het Rijk moeten op grond van artikel 14.2 leden 1 en 3 Omgevingsbesluit de informatie beschikbaar stellen die nodig is om in de landelijke voorziening een formulier, inclusief indieningsvereisten, te maken voor:  
+Gemeenten, provincies, waterschappen en het Rijk moeten op grond van artikel 14.2 leden 1 en 3 Omgevingsbesluit de informatie beschikbaar stellen die nodig is om in de landelijke voorziening een formulier, inclusief indieningsvereisten, te maken voor:
 
 - Het aanvragen van een omgevingsvergunning;  
 - Het doen van een melding;  
