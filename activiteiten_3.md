@@ -8,7 +8,7 @@ sort: 29
 
 **Richtlijn 3.1 Activiteit annoteren voor aanvragen**
 
-Bevat een regel in een omgevingsdocument een vergunning-, meldings- of informatieplicht? Dan is het noodzakelijk minimaal één juridische regel met een activiteit te annoteren, zodat het mogelijk is het benodigde formulier in het Omgevingsloket te zetten. [Lees verder](Richtlijn_3.1.md)
+Bevat een regel in een omgevingsdocument een vergunning-, meldings- of informatieplicht? Dan is het noodzakelijk minimaal één juridische regel met een activiteit te annoteren, zodat het mogelijk is het benodigde formulier in het Omgevingsloket te zetten. [Lees verder](Richtlijn_3.1.md) 
 
 **Richtlijn 3.2 Pas de juiste activiteitregelkwalificatie toe**
 
