@@ -1,7 +1,7 @@
 ---
 title: Richtlijn 3.3 Reikwijdte van een activiteit
 permalink: /activiteiten3
-sort: 33
+sort: 32
 ---
 
 # Richtlijn 3.3 Reikwijdte van een activiteit
