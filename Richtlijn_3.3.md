@@ -9,7 +9,7 @@ sort: 33
 
 ***- in bewerking -***
 
-Nieuwe richtlijn over de reikwijdte van een activiteit.
+Nieuwe richtlijn over de reikwijdte van een activiteit. Tekst wordt gemaakt.
 
 ## Waarom doen we dit?
 
