@@ -1,7 +1,7 @@
 ---
 title: Richtlijn 3.4 Geef de activiteit een herkenbare naam 
 permalink: /activiteiten4
-sort: 34
+sort: 33
 ---
 
 # Richtlijn 3.4 Geef de activiteit een herkenbare naam die zoveel mogelijk lijkt op de naam van de activiteit in de regeltekst 
