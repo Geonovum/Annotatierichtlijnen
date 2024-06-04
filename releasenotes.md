@@ -1,6 +1,6 @@
 ---
 permalink: /releasenotes
-sort: 1000
+sort: 100
 ---
 
 Overzicht toevoegingen en wijzigingen:
