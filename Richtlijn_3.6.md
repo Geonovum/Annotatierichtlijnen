@@ -7,7 +7,7 @@ sort: 306
 # Richtlijn 3.6 Gebruik noemer bij specifieke locatie in naam activiteit met bijbehorende regelkwalificatie
 ----------------
 
-***- in bewerking -***
+> _**in bewerking**_
 
 De Noemer van de locatie die alleen voor die activiteit geldt, bestaat uit de naam van die activiteit met de ‘toestemming’ (vergunningplicht, meldingsplicht, etc.) en de overeenkomende activiteitregelkwalificatie. 
 
