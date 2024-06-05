@@ -1,7 +1,7 @@
 ---
 title: 2 Regels opstellen
 permalink: /Regelsopstellen
-sort: 20
+sort: 200
 ---
 
 # 2. Regels opstellen
