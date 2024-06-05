@@ -1,7 +1,7 @@
 ---
 title: Richtlijn 3.6 Gebruik noemer bij specifieke locatie
 permalink: /activiteiten6
-sort: 35
+sort: 306
 ---
 
 # Richtlijn 3.6 Gebruik noemer bij specifieke locatie in naam activiteit met bijbehorende regelkwalificatie
