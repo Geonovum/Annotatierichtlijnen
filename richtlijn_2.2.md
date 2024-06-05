@@ -1,12 +1,12 @@
 ---
 title: Richtlijn 2.2 ‘Regel voor iedereen’ 
 permalink: /regelsopstellen2
-sort: 22
+sort: 202
 ---
 
 # Richtlijn 2.2 ‘Regel voor iedereen’
 
-***- in bewerking -***
+> _**in bewerking**_
 
 Een juridische regel is een ‘Regel voor iedereen’ in onderstaande gevallen:
 - In een AMvB, ministeriële regeling of omgevingsverordening: als het geen omgevingswaarderegel of instructieregel is;
