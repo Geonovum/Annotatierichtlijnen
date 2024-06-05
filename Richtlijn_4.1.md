@@ -1,13 +1,13 @@
 ---
 title: Richtlijn 4.1 Altijd een Locatie
 permalink: /werkingsgebieden1
-sort: 41
+sort: 401
 ---
 
 # Richtlijn 4.1 Altijd een Locatie
 ----------------
 
-***- in bewerking -***
+> _**in bewerking**_
 
 Voorzie een juridische regel altijd van één of meer locaties. De locaties van alle juridische regels die bij een artikel (zonder leden) of een lid horen, vormen samen het werkingsgebied van dat artikel of lid. De geannoteerde locatie(s) moeten daarbij overeenkomen met de beschrijving ervan in de (regel)tekst. 
 
