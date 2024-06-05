@@ -1,13 +1,13 @@
 ---
 title: Richtlijn 3.8 Alleen activiteiten met hun toestemmingen zoals in regel
 permalink: /activiteiten8
-sort: 37
+sort: 308
 ---
 
 # Richtlijn 3.8 Alleen activiteiten met hun toestemmingen zoals in regel
 ----------------
 
-***- in bewerking -***
+> _**in bewerking**_
 
 Annoteer alleen Activiteiten en de bijbehorende ‘toestemmingen’ die in de regel zijn benoemd (of,als de Activiteit in een ander artikel in dat tekstonderdeel is benoemd: waar de regel over gaat); de Activiteit is niet bedoeld om een interpretatie, afleiding of contramal die niet expliciet in de betreffende regel staat in annotaties weer te geven. 
 
