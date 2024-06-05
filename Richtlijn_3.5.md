@@ -1,7 +1,7 @@
 ---
 title: Richtlijn 3.5 Meng de activiteit niet met de specifieke locatie 
 permalink: /activiteiten5
-sort: 34
+sort: 305
 ---
 
 # Richtlijn 3.5 Meng de activiteit niet met de specifieke locatie 
