@@ -1,13 +1,13 @@
 ---
 title: Richtlijn 3.9 Annotaties moeten niet limitatief lijken als ze dat niet zijn
 permalink: /activiteiten9
-sort: 38
+sort: 308
 ---
 
 # Richtlijn 3.9 Annotaties moeten niet limitatief lijken als ze dat niet zijn
 ----------------
 
-***- in bewerking -***
+> _**in bewerking**_
 
 Wek niet de indruk van een limitatieve opsomming met de activiteit-annotaties als het artikel/lid niet limitatief bedoeld is. 
 
