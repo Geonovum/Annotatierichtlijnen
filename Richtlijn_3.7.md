@@ -1,13 +1,13 @@
 ---
 title: Richtlijn 3.7 Activiteiten met concrete inhoudelijke regels
 permalink: /activiteiten7
-sort: 36
+sort: 307
 ---
 
 # Richtlijn 3.7 Activiteiten met concrete inhoudelijke regels
 ----------------
 
-***- in bewerking -***
+> _**in bewerking**_
 
 Pas het annoteren met Activiteit alleen toe in de tekstonderdelen (afdeling, paragraaf etc.) die concrete inhoudelijke regels over een specifieke activiteit bevatten en annoteer in die tekstonderdelen alle artikelen/leden met Activiteit. Annoteer in de overige tekstonderdelen (met bv algemene bepalingen, verwijzende regels e.d.) niet met Activiteit. 
 
