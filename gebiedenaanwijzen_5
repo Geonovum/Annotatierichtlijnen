@@ -6,14 +6,34 @@ sort: 500
 
 # 5. Gebieden aanwijzen
 
-**Richtlijn 4.1 Altijd een Locatie**
+**Richtlijn 5.1 Gebruik een gebiedsaanwijzing voor wettelijk verplichte geometrische begrenzingen**
 
-Voorzie een juridische regel altijd van één of meer locaties. De locaties van alle juridische regels die bij een artikel (zonder leden) of een lid horen, vormen samen het werkingsgebied van dat artikel of lid. De geannoteerde locatie(s) moeten daarbij overeenkomen met de beschrijving ervan in de (regel)tekst. [Lees verder](Richtlijn_4.1.md)
+Voor het aanwijzen van een gebied vanuit een wettelijke verplichting uit de Omgevingswet of bijbehorende AMvB gebruik je een gebiedsaanwijzing. [Lees verder](Richtlijn_5.1.md)
 
-**Richtlijn 4.2 Zorg voor een herkenbare naam van locaties**
+**Richtlijn 5.2 Bij weergeven ETFAL op de kaart**
 
-Zorg dat de noemer(s) van de locatie(s) die het werkingsgebied vormt of vormen overeenkomen met hoe ze in de tekst van de regels worden genoemd. Daarvoor is het nodig dat in de tekst van de regels de locaties die het werkingsgebied vormen worden genoemd. [Lees verder](Richtlijn_4.2.md)
+Bij een gebiedsgerichte indeling van het omgevingsplan waarbij de evenwichtige toedeling van functies aan locaties expliciet op de kaart wordt weergegeven, kun je die gebieden annoteren met de gebiedsaanwijzing van het type functie. [Lees verder](Richtlijn_5.2.md)
 
-**Richtlijn 4.3 Neem geen functieaanduiding op in de noemer (naam) van de locatie**
+**Richtlijn 5.3 Gebruik beperkingengebied**
 
-Je legt de naam of aanduiding van het gebied of het onderwerp van regulering vast in zowel de noemer van de locatie(groep) van de juridische regel als in de naam van het GIO. Kies bijvoorbeeld voor "Wonen" in plaats van "activiteit Wonen" of "Functie Wonen”. Een uitzondering is "Beperkingengebied", dit is wel onderdeel van de inhoudelijke naam. [Lees verder](Richtlijn_4.3.md)
+Het begrenzen en het op de kaart weergeven van beperkingengebieden doe je door te annoteren met de gebiedsaanwijzing van het type beperkingengebied. Dit mag alleen voor beperkingengebieden zoals bedoeld in de Omgevingswet. [Lees verder](Richtlijn_5.3.md)
+
+**Richtlijn 5.4 Gebruik gebiedsaanwijzing type bouw**
+
+In het omgevingsplan kan je gebieden waar gebouwen mogen worden opgericht aangeven met rooilijnen en bouwvlakken met de gebiedsaanwijzing van het type bouw. Dit is niet verplicht of noodzakelijk. Je kunt dit ook op de kaart aangeven door te annoteren met een activiteit. [Lees verder](Richtlijn_5.4.md)
+
+**Richtlijn 5.5 Gebruik naam gebiedsaanwijzing en gebiedsaanwijzing-annotatie**
+
+De naam van de gebiedsaanwijzing moet ten minste één keer in de tekst voorkomen. De gebiedsaanwijzing-annotatie moet ten minste bij één artikel of lid voorkomen. Een artikel of lid dat het gebied aanwijst moet je in ieder geval met de gebiedsaanwijzing annoteren. [Lees verder](Richtlijn_5.5.md)
+
+**Richtlijn 5.6 Gebiedsaanwijzing vastleggen in een GIO**
+
+De gebiedsaanwijzing leg je in een GIO vast. De noemer van de locatie gebruik je ook als naam van die gebiedsaanwijzing. [Lees verder](Richtlijn_5.6.md)
+
+**Richtlijn 5.7 Hou naam gebiedsaanwijzing en locatie consistent**
+
+De viewer toont bij Plekinfo en in het annotatiescherm de naam van de locatiegroep of van de locatie(s). Dus zorg dat de naam van de gebiedsaanwijzing overeenkomt met de locatie van het werkingsgebied en dus ook voorkomt in de tekst van het artikel of het lid. [Lees verder](Richtlijn_5.7.md)
+
+**Richtlijn 5.8 Vastleggen naam of duiding van het aangewezen gebied**
+
+De naam van een gebiedsaanwijzing, de naam van het GIO en de noemer van de locatiegroep bevatten alleen de naam of aanduiding van het aangewezen gebied. De functionele typering van de annotatie volgens de standaard neem je niet in deze namen op. [Lees verder](Richtlijn_5.8.md)
