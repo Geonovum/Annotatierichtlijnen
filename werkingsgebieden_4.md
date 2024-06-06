@@ -10,10 +10,10 @@ sort: 400
 
 Voorzie een juridische regel altijd van één of meer locaties. De locaties van alle juridische regels die bij een artikel (zonder leden) of een lid horen, vormen samen het werkingsgebied van dat artikel of lid. De geannoteerde locatie(s) moeten daarbij overeenkomen met de beschrijving ervan in de (regel)tekst. [Lees verder](Richtlijn_4.1.md)
 
-**Richtlijn 3.10 Plaats activiteiten in een hiërarchische structuur**
+**Richtlijn 4.2 Zorg voor een herkenbare naam van locaties**
 
-In voorbereiding voor review. Publicatie concept volgt in de week van 10 juni 2024. [Lees verder](Richtlijn_3.10.md)
+Zorg dat de noemer(s) van de locatie(s) die het werkingsgebied vormt of vormen overeenkomen met hoe ze in de tekst van de regels worden genoemd. Daarvoor is het nodig dat in de tekst van de regels de locaties die het werkingsgebied vormen worden genoemd. [Lees verder](Richtlijn_4.2.md)
 
-**Richtlijn 3.10 Plaats activiteiten in een hiërarchische structuur**
+**Richtlijn 4.3 Neem geen functieaanduiding op in de noemer (naam) van de locatie**
 
-In voorbereiding voor review. Publicatie concept volgt in de week van 10 juni 2024. [Lees verder](Richtlijn_3.10.md)
+Je legt de naam of aanduiding van het gebied of het onderwerp van regulering vast in zowel de noemer van de locatie(groep) van de juridische regel als in de naam van het GIO. Kies bijvoorbeeld voor "Wonen" in plaats van "activiteit Wonen" of "Functie Wonen”. Een uitzondering is "Beperkingengebied", dit is wel onderdeel van de inhoudelijke naam. [Lees verder](Richtlijn_4.3.md)
