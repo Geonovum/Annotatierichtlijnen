@@ -25,3 +25,24 @@ Reviewcommentaren worden verwerkt. Publicatie volgt in de week van 10 juni 2024.
 **Richtlijn 3.5 Meng de activiteit niet met de specifieke locatie**
 
 In voorbereiding voor review. Publicatie concept volgt in de week van 10 juni 2024. [Lees verder](Richtlijn_3.5.md)
+
+**Richtlijn 3.6 Gebruik noemer bij specifieke locatie in naam activiteit met bijbehorende regelkwalificatie**
+
+De Noemer van de locatie die alleen voor die activiteit geldt, bestaat uit de naam van die activiteit met de ‘toestemming' (vergunningplicht, meldingsplicht, etc.) en de overeenkomende activiteitregelkwalificatie. [Lees verder](Richtlijn_3.6.md)
+
+**Richtlijn 3.7 Activiteiten met concrete inhoudelijke regels**
+
+Pas het annoteren met activiteit alleen toe in de tekstonderdelen (afdeling, paragraaf etc.) die concrete inhoudelijke regels over een specifieke activiteit bevatten en annoteer in die tekstonderdelen alle artikelen/leden met activiteit. Annoteer in de overige tekstonderdelen (met bv algemene bepalingen, verwijzende regels e.d.) niet met activiteit. [Lees verder](Richtlijn_3.7.md)
+
+**Richtlijn 3.8 Alleen activiteiten met hun toestemmingen zoals in regel**
+
+Annoteer alleen activiteiten en de bijbehorende ‘toestemmingen' die in de regel zijn benoemd (of, als de activiteit in een ander artikel in dat tekstonderdeel is benoemd: waar de regel over gaat); de activiteit is niet bedoeld om een interpretatie, afleiding of contramal die niet expliciet in de betreffende regel staat in annotaties weer te geven. [Lees verder](Richtlijn_3.8.md)
+
+**Richtlijn 3.9 Annotaties moeten niet limitatief lijken als ze dat niet zijn**
+
+Wek niet de indruk van een limitatieve opsomming met de activiteit-annotaties als het artikel/lid niet limitatief bedoeld is. [Lees verder](Richtlijn_3.9.md)
+
+**Richtlijn 3.10 Plaats activiteiten in een hiërarchische structuur**
+
+In voorbereiding voor review. Publicatie concept volgt in de week van 10 juni 2024. [Lees verder](Richtlijn_3.10.md)
+
