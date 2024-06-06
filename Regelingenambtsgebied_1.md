@@ -13,4 +13,4 @@ Ieder OW-object (regeltekst, juridische regel, locatie, gebiedsaanwijzing, activ
 
 **Richtlijn 1.2 Gebruik voor het ambtsgebied de geometrie van de ambtsgebiedenservice**
 
-Als de locatie van het werkingsgebied hetzelfde is als het ambtsgebied van de bestuurlijke grenzen voorziening, hoeft het bevoegd gezag geen geometrie voor het ambtsgebied te maken. [Lees verder](Richtlijn_1.2.md)
+Als de locatie van het werkingsgebied hetzelfde is als het ambtsgebied van de bestuurlijke grenzen voorziening, hoeft het bevoegd gezag geen geometrie voor het ambtsgebied te maken. [Lees verder](Richtlijn_1.2.md) 
