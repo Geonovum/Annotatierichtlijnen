@@ -4,7 +4,7 @@ permalink: /gebiedenaanwijzen1
 sort: 501
 ---
 
-# Richtlijn 5.1 Gebruik een gebiedsaanwijzing voor wettelijk verplichte geometrische begrenzingen.
+# Richtlijn 5.1 Gebruik een gebiedsaanwijzing voor wettelijk verplichte geometrische begrenzingen
 ----------------
 
 > _**in bewerking**_
