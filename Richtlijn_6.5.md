@@ -1,5 +1,5 @@
 ---
-title: Richtlijn 6.5 Noem de naam van de omgevingsnorm of -waarde minstens één keer 
+title: Richtlijn 6.5 Noem naam omgevingsnorm of -waarde minstens één keer 
 permalink: /normenstellen5
 sort: 605
 ---
