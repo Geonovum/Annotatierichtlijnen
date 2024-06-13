@@ -38,3 +38,36 @@ _<sup>2</sup> Dit is dus, concreet gezegd, (eerst) een zelfstandig naamwoord (in
 
 **Voorbeeld**
 ----------------
+
+**Neem een deel van het toepassingsbereik van de activiteit mee in de omschrijving van de activiteit** 
+
+Het meenemen van een deel van het toepassingsbereik van de activiteit in de omschrijving, maakt dat de activiteit onderscheidbaar is van andere activiteiten die over dezelfde handeling en object gaan (met hetzelfde oogmerk). Je ziet dit in onderstaand voorbeeld van activiteiten die allemaal van hetzelfde bestuursorgaan zijn. 
+
+Het is niet handig om hier één of twee activiteiten van te maken in plaats van vier. Ze hebben namelijk alle vier:  
+
+- Een eigen toepassingsbereik in de regels.  
+- Eigen bepalingen wanneer verplichtingen nodig zijn (melding/informatieplicht).  
+- Eigen indieneisen omschreven in de regels.  
+- Eigen algemene regels omschreven in de regels (daardoor ook een eigen set met maatregelen die een bedrijf moet treffen in maatregelen op maat).   
+
+***Kleinschalig tanken van voertuigen, vliegtuigen of werktuigen met vloeibare brandstoffen (25 m3 per jaar of minder)*** 
+
+Bal Artikel 4.491 (toepassingsbereik) 
+1. Deze paragraaf is van toepassing op het met een handpomp of een elektrische pomp tanken van voertuigen, vliegtuigen of werktuigen met vloeibare brandstoffen, als totaal niet meer dan 25 m3 vloeibare brandstoffen per jaar wordt getankt.  
+
+***Grootschalig tanken van voertuigen, vliegtuigen of werktuigen met vloeibare brandstoffen (meer dan 25 m3 per jaar)*** 
+
+Artikel 4.502 (toepassingsbereik) 
+1. Deze paragraaf is van toepassing op het tanken van voertuigen, vliegtuigen of werktuigen met vloeibare brandstoffen, als totaal meer dan 25 m3 vloeibare brandstoffen per jaar wordt getankt. 
+
+***Kleinschalig tanken van vaartuigen of drijvende werktuigen met vloeibare brandstoffen (25 m3 per jaar of minder)*** 
+
+Artikel 4.529 (toepassingsbereik) 
+
+1. Deze paragraaf is van toepassing op het met een handpomp of elektrische pomp tanken van vaartuigen of drijvende werktuigen, als niet meer dan 25 m3 vloeibare brandstoffen per jaar wordt 210 getankt. 
+
+***Grootschalig tanken van vaartuigen of drijvende werktuigen met vloeibare brandstoffen (meer dan 25 m3 per jaar)*** 
+
+Artikel 4.539 (toepassingsbereik) 
+
+1. Deze paragraaf is van toepassing op het tanken van vaartuigen of drijvende werktuigen, als meer dan 25 m3 vloeibare brandstoffen per jaar wordt getankt. 
