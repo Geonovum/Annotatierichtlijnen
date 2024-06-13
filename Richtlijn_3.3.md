@@ -9,7 +9,7 @@ sort: 303
 
 > _**in bewerking**_
 
-Nieuwe richtlijn over de reikwijdte van een activiteit. Tekst wordt gemaakt.
+Nieuwe richtlijn over de reikwijdte van een activiteit. Tekst in voorbereiding.
 
 ## Waarom doen we dit?
 
