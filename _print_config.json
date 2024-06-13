@@ -47,6 +47,126 @@
       {
          "name":"Richtlijn 3.3 Reikwijdte van een activiteit",
          "md":"Richtlijn_3.3.md"
+      },
+      {
+         "name":"Richtlijn 3.4 Geef de activiteit een herkenbare naam",
+         "md":"Richtlijn_3.4.md"
+      },
+      {
+         "name":"Richtlijn 3.5 Meng de activiteit niet met de specifieke locatie",
+         "md":"Richtlijn_3.5.md"
+      },
+      {
+         "name":"Richtlijn 3.6 Gebruik noemer bij specifieke locatie",
+         "md":"Richtlijn_3.6.md"
+      },
+      {
+         "name":"Richtlijn 3.7 Activiteiten met concrete inhoudelijke regels",
+         "md":"Richtlijn_3.7.md"
+      },
+      {
+         "name":"Richtlijn 3.8 Alleen activiteiten met hun toestemmingen zoals in regel",
+         "md":"Richtlijn_3.8.md"
+      },
+      {
+         "name":"Richtlijn 3.9 Annotaties moeten niet limitatief lijken als ze dat niet zijn",
+         "md":"richtlijn_3.9.md"
+      },
+      {
+         "name":"Richtlijn 3.10 Plaats activiteiten in een hiërarchische structuur",
+         "md":"Richtlijn_3.10.md"
+      },
+      {
+         "name":"4 Werkingsgebieden",
+         "md":"werkingsgebieden_4.md"
+      },
+      {
+         "name":"Richtlijn 4.1 Altijd een Locatie",
+         "md":"Richtlijn_4.1.md"
+      },
+      {
+         "name":"Richtlijn 4.2 Zorg voor een herkenbare naam van locaties",
+         "md":"Richtlijn_4.2.md"
+      },
+      {
+         "name":"Richtlijn 4.3 Neem geen functieaanduiding op in de noemer (naam) van de locatie",
+         "md":"Richtlijn_4.3.md"
+      },
+      {
+         "name":"5 Gebieden aanwijzen",
+         "md":"gebiedenaanwijzen_5.md"
+      },
+      {
+         "name":"Richtlijn 5.1 Bij wettelijk verplichte geometrische begrenzingen",
+         "md":"Richtlijn_5.1.md"
+      },
+      {
+         "name":"Richtlijn 5.2 Bij weergeven ETFAL op de kaart",
+         "md":"richtlijn_5.2.md"
+      },
+      {
+         "name":"Richtlijn 5.3 Gebruik beperkingengebied",
+         "md":"Richtlijn_5.3.md"
+      },
+      {
+         "name":"Richtlijn 5.4 Gebruik gebiedsaanwijzing type bouw",
+         "md":"Richtlijn_5.4.md"
+      },
+      {
+         "name":"Richtlijn 5.5 Gebruik naam gebiedsaanwijzing en gebiedsaanwijzing-annotatie",
+         "md":"Richtlijn_5.5.md"
+      },
+      {
+         "name":"Richtlijn 5.6 Gebiedsaanwijzing vastleggen in een GIO",
+         "md":"Richtlijn_5.6.md"
+      },
+      {
+         "name":"Richtlijn 5.7 Hou naam gebiedsaanwijzing en locatie consistent",
+         "md":"Richtlijn_5.7.md"
+      },
+      {
+         "name":"Richtlijn 5.8 Vastleggen naam of duiding aangewezen gebied",
+         "md":"Richtlijn_5.8.md"
+      },
+      {
+         "name":"6 Normen stellen",
+         "md":"normenstellen_6.md"
+      },
+      {
+         "name":"Richtlijn 6.1 Vastleggen regels die normen stellen met verschillende waarden",
+         "md":"Richtlijn_6.1.md"
+      },
+      {
+         "name":"Richtlijn 6.2 Waarde norm of omgevingswaarde niet in tekst opnemen",
+         "md":"richtlijn_6.2.md"
+      },
+      {
+         "name":"Richtlijn 6.3 Gebruik waardeInRegeltekst",
+         "md":"Richtlijn_6.3.md"
+      },
+      {
+         "name":"Richtlijn 6.4 Naam overeenkomend met bijbehorende GIO",
+         "md":"Richtlijn_6.4.md"
+      },
+      {
+         "name":"Richtlijn 6.5 Noem naam omgevingsnorm of -waarde minstens één keer",
+         "md":"Richtlijn_6.5.md"
+      },
+      {
+         "name":"Richtlijn 6.6 Eenheid staat in annotatie omgevingsnorm/omgevingswaarde",
+         "md":"Richtlijn_6.6.md"
+      },
+      {
+         "name":"Richtlijn 6.7 Waarde geldt voor individuele geometrie",
+         "md":"Richtlijn_6.7.md"
+      },
+      {
+         "name":"Richtlijn 6.8 Een soort norm kent op slechts één plek een waarde",
+         "md":"Richtlijn_6.8.md"
+      },
+      {
+         "name":"Overzicht toevoegingen en wijzigingen",
+         "md":"releasenotes.md"
       }
       
    ]
