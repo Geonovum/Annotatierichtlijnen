@@ -7,9 +7,7 @@ sort: 304
 # Richtlijn 3.4 Geef de activiteit een herkenbare naam  
 ----------------
 
-> _**in bewerking**_
-
-**Reviewcommentaren in verwerking.**
+> _**in bewerking (reviewcommentaren ontvangen)**_
 
 Kies een activiteitnaam die weergeeft op welke handelingen (wat doe je) en objecten (wat is het waar je iets mee wilt doen) de regels met deze activiteit betrekking hebben. Neem in de naam van de activiteit woorden op die voorkomen in de tekst van de regel<sup>1</sup>.  
 
@@ -34,9 +32,9 @@ Een aantal vuistregels voor het kiezen van de naam van een activiteit zijn:
 
 De viewer toont in de legenda de naam van de activiteit met daarbij de noemers van de bijbehorende locatiegroepen en de activiteitregelkwalificatie (met uitzondering van anders geduid, die wordt niet getoond).  Als er geen locatiegroep is, toont de viewer de noemer(s) van de losse locaties. Zorg ervoor dat de noemer die getoond wordt voorkomt in de tekst van het artikel of het lid. 
 
-_<sup>1</sup> Als het om een reeds bestaande activiteitnaam gaat, zorg dan dat de naam van de activiteit herkenbaar is top enige plek in de (aanvullende) regeltekst 
+_<sup>1</sup> Als het om een reeds bestaande activiteitnaam gaat, zorg dan dat de naam van de activiteit herkenbaar is top enige plek in de (aanvullende) regeltekst._ 
 
-_<sup>2</sup> Dit is dus, concreet gezegd, (eerst) een zelfstandig naamwoord (in enkelvoud) en (dan) een werkwoord, waarbij de handeling betrekking heeft op het object, zoals bijvoorbeeld “uitrit aanleggen”. Soms leidt het toevoegen van handelingen tot een onleesbare tekst; zo zijn bij de Bruidsschat bij Bedrijfsactiviteiten geen handelingen toegevoegd. Dat gaf erg lange en daarmee slecht leesbare namen. Bijvoorbeeld: Bouwbedrijf, installatiebedrijf, grondbouwbedrijf, wegbouwbedrijf, waterbouwbedrijf en schildersbedrijf starten, veranderen of inwerking hebben. 
+_<sup>2</sup> Dit is dus, concreet gezegd, (eerst) een zelfstandig naamwoord (in enkelvoud) en (dan) een werkwoord, waarbij de handeling betrekking heeft op het object, zoals bijvoorbeeld “uitrit aanleggen”. Soms leidt het toevoegen van handelingen tot een onleesbare tekst; zo zijn bij de Bruidsschat bij Bedrijfsactiviteiten geen handelingen toegevoegd. Dat gaf erg lange en daarmee slecht leesbare namen. Bijvoorbeeld: Bouwbedrijf, installatiebedrijf, grondbouwbedrijf, wegbouwbedrijf, waterbouwbedrijf en schildersbedrijf starten, veranderen of inwerking hebben._ 
 
 **Voorbeeld**
 ----------------
