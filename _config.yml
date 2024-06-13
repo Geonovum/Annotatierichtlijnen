@@ -80,7 +80,7 @@ scss: |
 
   .breadcrumb-item { font-size: 0.5em; }
   .navigation-top {font-size: 2em}  
-  .printWindow { visibility: hidden;position:fixed;left:50%;margin-left:-400px;width:800px;top:50%;height:700px;box-shadow: 3px 3px- #eee;margin-top:-250px;
+  .printWindow { visibility: hidden;position:fixed;left:50%;margin-left:-400px;width:1000px;top:40%;height:700px;box-shadow: 3px 3px- #eee;margin-top:-250px;
   background:#fff;border: solid 1px grey;text-align:right;z-index:500;border-radius:5px;box-shadow: 0 1px 2px 0;padding: 5px;}
   .printFrame { margin:0;border: none; width:100%;height:100%}
   
