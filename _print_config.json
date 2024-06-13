@@ -1,0 +1,50 @@
+{
+	"github" : { 
+		"remote" : "https://github.com/Geonovum/Annotatierichtlijnen.git",
+		"local" : "github"
+	},
+	"docs":[
+	  {
+         "name":"Inleiding",
+         "md":"README.md"
+      },
+      {
+         "name":"1 Regeling en ambtsgebied",
+         "md":"Regelingenambtsgebied_1.md"
+      },
+      {
+         "name":"Richtlijn 1.1 Elk OW-object hoort bij één regeling",
+         "md":"Richtlijn_1.1.md"
+      },
+      {
+         "name":"Richtlijn 1.2 Gebruik geometrie van de ambtsgebiedenservice",
+         "md":"Richtlijn_1.2.md"
+      },
+      {
+         "name":"2 Regels opstellen",
+         "md":"regelsopstellen_2.md"
+      },
+      {
+         "name":"Richtlijn 2.1 Specifiek annoteren één juridische regel",
+         "md":"Richtlijn_2.1.md"
+      },
+      {
+         "name":"Richtlijn 2.2 ‘Regel voor iedereen’",
+         "md":"richtlijn_2.2.md"
+      },
+      {
+         "name":"3 Activiteiten inzichtelijk en toepasbaar maken",
+         "md":"activiteiten_3.md"
+      },
+      {
+         "name":"Richtlijn 3.1 Activiteit annoteren voor aanvragen",
+         "md":"Richtlijn_3.1.md"
+      },
+      {
+         "name":"Richtlijn 3.2 Pas de juiste activiteitregelkwalificatie toe",
+         "md":"Richtlijn_3.2.md"
+      }
+      
+     
+   ]
+}
