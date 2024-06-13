@@ -43,8 +43,11 @@
       {
          "name":"Richtlijn 3.2 Pas de juiste activiteitregelkwalificatie toe",
          "md":"Richtlijn_3.2.md"
+      },
+      {
+         "name":"Richtlijn 3.3 Reikwijdte van een activiteit",
+         "md":"Richtlijn_3.3.md"
       }
       
-     
    ]
 }
