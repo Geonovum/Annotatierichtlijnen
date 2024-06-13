@@ -11,8 +11,3 @@ sort: 303
 
 Nieuwe richtlijn over de reikwijdte van een activiteit. Tekst in voorbereiding.
 
-## Waarom doen we dit?
-
-
-**Voorbeeld**
-----------------
