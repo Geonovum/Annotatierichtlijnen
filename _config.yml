@@ -44,7 +44,8 @@ script: |
   jiraHelpdesk(function() {var DOMContentLoaded_event = document.createEvent('Event');  DOMContentLoaded_event.initEvent('DOMContentLoaded', true, true);window.document.dispatchEvent(DOMContentLoaded_event);});
   
   document.getElementsByClassName('addons-wrap')[0].innerHTML = '<div class="faq"><div class="title"><i class="fa fa-question-circle-o"></i><a style="text-decoration: none" href="/Annotatierichtlijnen/releasenotes">&nbsp;&nbsp;Releasenotes</a></div></div>' + document.getElementsByClassName('addons-wrap')[0].innerHTML;  
-  document.getElementsByClassName('level-1')[document.getElementsByClassName('level-1').length -1].style.visibility = 'hidden';
+  var levels = document.getElementsByClassName('level-1');
+  levels[levels.length -1].style.visibility = 'hidden';
 
    document.getElementsByClassName('navigation-top')[0].innerHTML= document.getElementsByClassName('navigation-top')[0].innerHTML + '<div><a class="print" href="#" onclick="document.getElementsByClassName(\'printWindow\')[0].style.visibility=\'visible\';" title="Print to PDF" rel="noreferrer"><i style="font-size: 0.9em" class="fa fa-file-pdf-o"> </i></a></div>';   
    document.getElementsByClassName('addons-wrap')[0].innerHTML = '<div class="printWindow"><a href="#" onclick="document.getElementsByClassName(\'printWindow\')[0].style.visibility=\'hidden\';"><small>Sluiten &times;</small></a><iframe class="printFrame" src="https://md2pdf.gewoongoedegeodata.nl/annotatierichtlijnen" scrolling="no"></iframe></div>' + document.getElementsByClassName('addons-wrap')[0].innerHTML; 
