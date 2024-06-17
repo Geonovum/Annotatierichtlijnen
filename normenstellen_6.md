@@ -32,7 +32,7 @@ De eenheid (zoals meter of aantal) van de kwantitatieve waarde staat in de annot
 
 **Richtlijn 6.7 Waarde geldt voor individuele geometrie**
 
-De waarde van een Omgevingsnorm/Omgevingswaarde geldt per individuele geometrie, niet voor een verzameling geometrieën. Dit geldt ook voor multigeometrie en locatiegroep: de normwaarde geldt voor elke geometrie binnen de MultiSurface, MultiCurve of MultiPoint respectievelijk de gebiedengroep, lijnengroep of puntengroep. [Lees verder](Richtlijn_6.7.md)
+De waarde van een omgevingsnorm/omgevingswaarde geldt per individuele geometrie, niet voor een verzameling geometrieën. Dit geldt ook voor multigeometrie en locatiegroep: de normwaarde geldt voor elke geometrie binnen de MultiSurface, MultiCurve of MultiPoint respectievelijk de gebiedengroep, lijnengroep of puntengroep. [Lees verder](Richtlijn_6.7.md)
 
 **Richtlijn 6.8 Een soort norm kent op slechts één plek een waarde**
 
