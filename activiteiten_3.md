@@ -28,7 +28,7 @@ n de naam van de activiteit neem je niet de duiding van de locatie op. Alleen al
 
 **Richtlijn 3.6 Gebruik noemer bij specifieke locatie in naam activiteit met bijbehorende regelkwalificatie**
 
-De Noemer van de locatie die alleen voor die activiteit geldt, bestaat uit de naam van die activiteit met de ‘toestemming' (vergunningplicht, meldingsplicht, etc.) en de overeenkomende activiteitregelkwalificatie. [Lees verder](Richtlijn_3.6.md)
+De noemer van de locatie die alleen voor die activiteit geldt, bestaat uit de naam van die activiteit met de ‘toestemming' (vergunningplicht, meldingsplicht, etc.) en de overeenkomende activiteitregelkwalificatie. [Lees verder](Richtlijn_3.6.md)
 
 **Richtlijn 3.7 Activiteiten met concrete inhoudelijke regels**
 
