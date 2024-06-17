@@ -9,11 +9,8 @@ sort: 306
 
 > _**in bewerking**_
 
-De Noemer van de locatie die alleen voor die activiteit geldt, bestaat uit de naam van die activiteit met de ‘toestemming’ (vergunningplicht, meldingsplicht, etc.) en de overeenkomende activiteitregelkwalificatie. 
+De noemer van de locatie die alleen voor die activiteit geldt, bestaat uit de naam van die activiteit met de ‘toestemming’ (vergunningplicht, meldingsplicht, etc.) en de overeenkomende activiteitregelkwalificatie. 
 
 ## Waarom doen we dit?
 
 Deze regels zorgen dat er in de tekst, in de legenda, in het annotatiescherm en in de bijlage met GIO- namen dezelfde termen staan. Daar mogen geen namen staan die niet in de tekst voorkomen. 
-
-**Voorbeeld**
-----------------
