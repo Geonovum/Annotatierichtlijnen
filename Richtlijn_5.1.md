@@ -40,6 +40,3 @@ Een ander voorbeeld is de notaris die makkelijker kan zien dat er op een pand be
 | **Beperkingengebieden** | **Vindplaats** |  | 
 | Beperkingengebied lokale spoorwegen | Art. 5.164 Bkl | Beperkingengebiedgroep Spoorweg | 
 | Beperkingengebied luchthaven | Art. 2.29 | Beperkingengebiedgroep Luchthaven | 
-
-**Voorbeeld**
-----------------
