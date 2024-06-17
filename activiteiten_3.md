@@ -16,7 +16,7 @@ Voor het annoteren met activiteitregelkwalificaties is het prettig als een artik
 
 **Richtlijn 3.3.3 Reikwijdte van een activiteit**
 
-In bewerking. 
+Nieuwe richtlijn over de reikwijdte van een activiteit. Tekst in voorbereiding. 
 
 **Richtlijn 3.4 Geef de activiteit een herkenbare naam die zoveel mogelijk lijkt op de naam van de activiteit in de regeltekst**
 
