@@ -14,7 +14,7 @@ Bevat een regel in een omgevingsdocument een vergunning-, meldings- of informati
 
 Voor het annoteren met activiteitregelkwalificaties is het prettig als een artikel of lid zo is opgeschreven dat er per artikel (of per lid als het artikel meerdere leden heeft) maar één soort ‘plichtkwalificatie’ voorkomt (vergunningplicht, meldingsplicht etc.). Dan kun je namelijk per artikel/lid één activiteitregelkwalificatie gebruiken. [Lees verder](Richtlijn_3.2.md) 
 
-**Richtlijn 3.3.3 Reikwijdte van een activiteit**
+**Richtlijn 3.3 Reikwijdte van een activiteit**
 
 Nieuwe richtlijn over de reikwijdte van een activiteit. Tekst in voorbereiding. 
 
