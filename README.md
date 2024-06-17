@@ -3,14 +3,7 @@ Annotatierichtlijnen voor omgevingsdocumenten
 
 > _**in bewerking**_
 
-_Omgevingsdocumenten vormen een belangrijke informatiebron voor burgers, bedrijven en overheden. Door ze te digitaliseren en te annoteren, maken we ze toegankelijker, gebruiksvriendelijker en juridisch verantwoord. De annotatierichtlijnen bieden handvatten voor het correct annoteren van omgevingsdocumenten en ze op een juridisch verantwoorde manier in viewers te tonen._  
-
--   [Effecten annoteren](#Effecten-annoteren)
--   [Toevoegen van gegevens](#Toevoegen-van-gegevens)
--   [Doelen annoteren](#Doelenannoteren)
--   [Nieuwe versie](#Nieuwe-versie)
--   [Toelichting op deze website](#Toelichting-op-deze-website)
--   [In bewerking](#In-bewerking)
+Omgevingsdocumenten vormen een belangrijke informatiebron voor burgers, bedrijven en overheden. Door ze te digitaliseren en te annoteren, maken we ze toegankelijker, gebruiksvriendelijker en juridisch verantwoord. De annotatierichtlijnen bieden handvatten voor het correct annoteren van omgevingsdocumenten om ze op een juridisch verantwoorde manier in viewers te tonen.  
 
 Effecten annoteren
 -------------------------
