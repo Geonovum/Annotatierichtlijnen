@@ -42,7 +42,7 @@ Deze richtlijnen zijn bedoeld voor medewerkers van bevoegde gezagen en door hen 
 Deze website is niet bedoeld om alles uit te leggen over annoteren, daarvoor verwijzen we graag naar de informatie op onder meer: 
 - [Wegwijzer TPOD](https://www.wegwijzertpod.nl/onderwerpen/annoteren)
 - [Het effect van annoteren](https://www.wegwijzertpod.nl/publicaties/het-effect-van-annoteren)
-- [VNG Handreiking Annoteren omgevingsplan](https://vng.nl/sites/default/files/2021-06/2021-03-vng-handreiking-annoteren-omgevingsplan-v4.pdf).  
+- [VNG Handreiking Annoteren omgevingsplan](https://vng.nl/sites/default/files/2021-06/2021-03-vng-handreiking-annoteren-omgevingsplan-v4.pdf)  
 
 In bewerking 
 -------------------------
