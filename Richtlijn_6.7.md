@@ -9,7 +9,7 @@ sort: 607
 
 > _**in bewerking**_
 
-De waarde van een Omgevingsnorm/Omgevingswaarde geldt per individuele geometrie, niet voor een verzameling geometrieën. Dit geldt ook voor multigeometrie en locatiegroep: de normwaarde geldt voor elke geometrie binnen de MultiSurface, MultiCurve of MultiPoint respectievelijk de gebiedengroep, lijnengroep of puntengroep. 
+De waarde van een omgevingsnorm/omgevingswaarde geldt per individuele geometrie, niet voor een verzameling geometrieën. Dit geldt ook voor multigeometrie en locatiegroep: de normwaarde geldt voor elke geometrie binnen de MultiSurface, MultiCurve of MultiPoint respectievelijk de gebiedengroep, lijnengroep of puntengroep. 
 
 Een omgevingsnorm/omgevingswaarde mag geen gezamenlijke waarde hebben voor een verzameling geometrieën.  
 
