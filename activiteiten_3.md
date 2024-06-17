@@ -20,11 +20,11 @@ In bewerking.
 
 **Richtlijn 3.4 Geef de activiteit een herkenbare naam die zoveel mogelijk lijkt op de naam van de activiteit in de regeltekst**
 
-Reviewcommentaren worden verwerkt. Publicatie volgt in de week van 10 juni 2024. [Lees verder](Richtlijn_3.4.md)
+Kies een activiteitnaam die weergeeft op welke handelingen (wat doe je) en objecten (wat is het waar je iets mee wilt doen) de regels met deze activiteit betrekking hebben. Neem in de naam van de activiteit woorden op die voorkomen in de tekst van de regel. [Lees verder](Richtlijn_3.4.md)
 
 **Richtlijn 3.5 Meng de activiteit niet met de specifieke locatie**
 
-In voorbereiding voor review. Publicatie concept volgt in de week van 10 juni 2024. [Lees verder](Richtlijn_3.5.md)
+n de naam van de activiteit neem je niet de duiding van de locatie op. Alleen als het een onlosmakelijk inhoudelijk onderdeel is van de naam zoals ‘boren in de Noordzee'. [Lees verder](Richtlijn_3.5.md)
 
 **Richtlijn 3.6 Gebruik noemer bij specifieke locatie in naam activiteit met bijbehorende regelkwalificatie**
 
@@ -44,5 +44,5 @@ Wek niet de indruk van een limitatieve opsomming met de activiteit-annotaties al
 
 **Richtlijn 3.10 Plaats activiteiten in een hiërarchische structuur**
 
-In voorbereiding voor review. Publicatie concept volgt in de week van 10 juni 2024. [Lees verder](Richtlijn_3.10.md)
+Plaats de activiteiten die horen bij een omgevingsdocument in een hiërarchische structuur door gebruik te maken van de relatie ‘bovenliggende activiteit'. Daarmee creëer je een boomstructuur van activiteiten waarin iedere activiteit precies één bovenliggende activiteit heeft en meerdere onderliggende activiteiten kan hebben. [Lees verder](Richtlijn_3.10.md)
 
