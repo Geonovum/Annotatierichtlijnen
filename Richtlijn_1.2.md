@@ -16,5 +16,7 @@ Voor werkingsgebieden en locaties die overeenkomen met het ambtsgebied lever je 
 
 Het verwijzen naar de bestuurlijke grenzen voorziening heeft ook als voordeel dat OZON en viewers hiermee bijvoorbeeld makkelijker onderscheid kunnen maken tussen activiteiten die in het hele ambtsgebied gelden en activiteiten die in een beperkt gebied gelden<sup>2</sup>. Ook zorgt het voor een snellere werking van de kaart.
 
+
 _<sup>1</sup> Voor een paar waterschappen werkt dit nog niet goed, omdat de juiste begrenzing nog niet is vastgelegd._ 
+
 _<sup>2</sup> Wanneer je verwijst naar een ander ambtsgebied, verwijs je naar de versie die op dat moment geldig is. Bij een eventuele bestuurlijke herindeling, maak je geleidelijk de overstap naar het nieuwe ambtsgebied._
