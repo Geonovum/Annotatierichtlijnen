@@ -70,4 +70,12 @@ Artikel 4.529 (toepassingsbereik)
 
 Artikel 4.539 (toepassingsbereik) 
 
-1. Deze paragraaf is van toepassing op het tanken van vaartuigen of drijvende werktuigen, als meer dan 25 m3 vloeibare brandstoffen per jaar wordt getankt. 
+1. Deze paragraaf is van toepassing op het tanken van vaartuigen of drijvende werktuigen, als meer dan 25 m3 vloeibare brandstoffen per jaar wordt getankt.
+
+**Voorbeeld**
+----------------
+![Screenshot Voorbeeld 3.4 - 1: Goed voorbeeld: activiteitnaam in de vorm object en handeling.](Media/3.4 Voorbeeld 1 Naamgeven activiteit.png)
+
+![Screenshot Voorbeeld 3.4 - 2: activiteitnaam mist een doel, maak hem specifiek​.](Media/3.4 Voorbeeld 2 Naamgeven activiteit.png)
+
+![Screenshot Voorbeeld 3.4 - 3: De naam activiteit is herkenbaar in tekst van de regel​​.](Media/3.4 Voorbeeld 3 Naamgeven activiteit.png)
