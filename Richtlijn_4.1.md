@@ -27,3 +27,5 @@ In deze gevallen is het beter om een beschrijving van de locatie te gebruiken.
 
 **Voorbeeld**
 ----------------
+
+![Screenshot Voorbeeld 4.1: Annoteer altijd een locatie.](Media/4.1 Voorbeeld 1 Werkingsgebieden annoteren.png)
