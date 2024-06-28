@@ -36,7 +36,7 @@ _<sup>1</sup> Als het om een reeds bestaande activiteitnaam gaat, zorg dan dat d
 
 _<sup>2</sup> Dit is dus, concreet gezegd, (eerst) een zelfstandig naamwoord (in enkelvoud) en (dan) een werkwoord, waarbij de handeling betrekking heeft op het object, zoals bijvoorbeeld “uitrit aanleggen”. Soms leidt het toevoegen van handelingen tot een onleesbare tekst; zo zijn bij de Bruidsschat bij Bedrijfsactiviteiten geen handelingen toegevoegd. Dat gaf erg lange en daarmee slecht leesbare namen. Bijvoorbeeld: Bouwbedrijf, installatiebedrijf, grondbouwbedrijf, wegbouwbedrijf, waterbouwbedrijf en schildersbedrijf starten, veranderen of inwerking hebben._ 
 
-**Voorbeeld**
+**Tekstvoorbeeld**
 ----------------
 
 **Neem een deel van het toepassingsbereik van de activiteit mee in de omschrijving van de activiteit** 
@@ -72,7 +72,7 @@ Artikel 4.539 (toepassingsbereik)
 
 1. Deze paragraaf is van toepassing op het tanken van vaartuigen of drijvende werktuigen, als meer dan 25 m3 vloeibare brandstoffen per jaar wordt getankt.
 
-**Voorbeeld**
+**Voorbeelden**
 ----------------
 ![Screenshot Voorbeeld 3.4 - 1: Goed voorbeeld: activiteitnaam in de vorm object en handeling.](Media/3.4 Voorbeeld 1 Naamgeven activiteit.png)
 
