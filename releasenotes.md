@@ -8,6 +8,7 @@ Overzicht toevoegingen en wijzigingen:
 
 | Datum | Beschrijving | Status | 
 | --- | --- | --- |
+| 2024-06-28 | Toegevoegd concept-voorbeelden bij richtlijnen 3.4, 3.5, 3.10, 4.1 | in bewerking |
 | 2024-06-12 | Toegevoegd richtlijnen Normen stellen 6.1 t/m 6.8 | in bewerking |
 | 2024-06-04 | Toegevoegd richtlijnen Werkingsgebieden 4.2 en 4.3 en Gebieden aanwijzen 5.1 t/m 5.8 | in bewerking |
 | 2024-05-30 | Toegevoegd functie print to pdf | gereed |
