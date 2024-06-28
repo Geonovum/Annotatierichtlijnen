@@ -1,5 +1,5 @@
 ---
-title: Richtlijn 6.2 Waarde norm of omgevingswaarde niet in tekst opnemen 
+title: Richtlijn 6.2 Waarde norm of omgevingswaarde niet in tekst 
 permalink: /normenstellen2
 sort: 602
 ---
