@@ -44,7 +44,7 @@ Let op: de bovenste activiteit van een tijdelijk regelingdeel heeft als bovenlig
 ![Screenshot Voorbeeld 3.10 - 1: Hoe bouw je een hiërarchische structuur bij het aanmaken van een activiteit in je plansoftware.](Media/3.10 Voorbeeld 1 Activiteit inzichtleijk en toepasbaar maken.png)
 
 **Voorbeeld 2**
-![Screenshot Voorbeeld 3.10 - 2: Activiteit inzichtleijk en toepasbaar maken vb 2.](Media/3.10 Voorbeeld 2 Activiteit inzichtelijk en toepasbaar maken.png)
+![Screenshot Voorbeeld 3.10 - 2: Activiteit inzichtelijk en toepasbaar maken vb 2.](Media/3.10 Voorbeeld 2 Activiteit inzichtleijk en toepasbaar maken.png)
 
 **Voorbeeld 3A en 3B** 
 
