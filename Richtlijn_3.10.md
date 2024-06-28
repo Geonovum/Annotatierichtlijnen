@@ -37,11 +37,24 @@ Voor een tophaak gelden de volgende afspraken:
 
 Let op: de bovenste activiteit van een tijdelijk regelingdeel heeft als bovenliggende activiteit niet een activiteit in de structuur die het Rijk heeft klaargezet, maar de tophaak van het omgevingsdocument waar het tijdelijk regelingdeel bij hoort: [omgevingsdocument] [gemeente/provincie/waterschap/rijk] [naam bestuursorgaan]. 
 
-**Voorbeeld**
+**Voorbeelden**
 ----------------
 
-Toelichting bij voorbeeld 3 
+**Voorbeeld 1**
+![Screenshot Voorbeeld 3.10 - 1: Hoe bouw je een hiërarchische structuur bij het aanmaken van een activiteit in je plansoftware.](Media/3.10 Voorbeeld 1 Activiteit inzichtleijk en toepasbaar maken.png)
 
-Bij de toepasbare regels voor de ‘Bouwactiviteit (omgevingsplan)' in de bruidsschat voor het omgevingsplan is per onderliggende activiteit een vergunningcheck gemaakt. Deze afzonderlijke vergunningchecks zijn makkelijker te maken en onderhouden dan één vergunningcheck voor de ‘Bouwactiviteit (omgevingsplan)’. Het is ook makkelijk om de afzonderlijke vergunningchecks aan de juiste werkzaamheden te koppelen. Niet voor alle onderliggende activiteiten is een vergunningcheck gemaakt.  
+**Voorbeeld 2**
+![Screenshot Voorbeeld 3.10 - 2: Activiteit inzichtleijk en toepasbaar maken vb 2.](Media/3.10 Voorbeeld 2 Activiteit inzichtelijk en toepasbaar maken.png)
+
+**Voorbeeld 3A en 3B** 
+
+Toelichting: Bij de toepasbare regels voor de ‘Bouwactiviteit (omgevingsplan)' in de bruidsschat voor het omgevingsplan is per onderliggende activiteit een vergunningcheck gemaakt. Deze afzonderlijke vergunningchecks zijn makkelijker te maken en onderhouden dan één vergunningcheck voor de ‘Bouwactiviteit (omgevingsplan)’. Het is ook makkelijk om de afzonderlijke vergunningchecks aan de juiste werkzaamheden te koppelen. Niet voor alle onderliggende activiteiten is een vergunningcheck gemaakt.  
 
 Voor de ‘Bouwactiviteit (omgevingsplan) is één vergunningaanvraagformulier gemaakt. Dit is gedaan op verzoek van de bouwsector en omdat er één set aan aanvraagvereisten is opgenomen in artikel 22.35 van de bruidsschat. Dit formulier kan alleen worden opgenomen bij een onderliggende activiteit van de ‘Bouwactiviteit (omgevingsplan), omdat toepasbare regels alleen toegevoegd kunnen worden aan de onderste activiteiten in de hiërarchische structuur van activiteiten. Voor dit formulier is een aparte onderliggende activiteit toegevoegd: de activiteit ‘Aanvraagvereisten binnenplanse omgevingsvergunning omgevingsplanactiviteit bouwwerken’. Hierdoor is duidelijk bij welke onderliggende activiteit het aanvraagformulier is opgenomen. 
+
+![Screenshot Voorbeeld 3.10 - 3A: Generiek en specifiek annoteren op het juiste activiteitniveau.](Media/3.10 Voorbeeld 3a Activiteit inzichtleijk en toepasbaar maken.png)
+
+![Screenshot Voorbeeld 3.10 - 3B: Activiteit inzichtleijk en toepasbaar maken vb 3B.](Media/3.10 Voorbeeld 3b Activiteit inzichtleijk en toepasbaar maken.png)
+
+**Voorbeeld 4**
+![Screenshot Voorbeeld 3.10 - 4: Activiteit inzichtelijk en toepasbaar maken vb 4.](Media/3.10 Voorbeeld 4 Activiteit inzichtleijk en toepasbaar maken.png)
