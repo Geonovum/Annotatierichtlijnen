@@ -33,3 +33,4 @@ Er zijn een tweetal redenen genoemd waarom je eventueel wel een locatie op kan n
 
 **Voorbeeld**
 ----------------
+![Screenshot Voorbeeld 3.5: Meng de activiteit niet met de specifieke locatie.](Media/3.5 Voorbeeld Activiteit met meerdere locaties annoteren.png)
